@@ -1,59 +1,218 @@
 ## Sequence Modeling
 
+
+
 [Arxiv 2018] An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
 
+Gated Linear Attention Transformers with Hardware-Efficient Training
+
+Long Short-Term Memory
+
+DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders
+
+An Uncertainty Principle for Linear Recurrent Neural Networks
+
+SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
+
+【NeurIPS 2024】Parallelizing Linear Transformers with the Delta Rule over Sequence Length. [[Paper](https://arxiv.org/pdf/2406.06484)]
+
+「Arxiv 2024.08.11」Learning to (Learn at Test Time): RNNs with Expressive Hidden States. [[Paper](https://arxiv.org/pdf/2407.04620)] [[Code](https://github.com/test-time-training/ttt-lm-pytorch)]
+
+「Arxiv 2024.08.27」Gated Linear Attention Transformers with Hardware-Efficient Training. [[Paper](https://arxiv.org/pdf/2312.06635)]
+
+「Arxiv 2024.11.09」Gated Delta Networks: Improving Mamba2 with Delta Rule. [[Paper](https://arxiv.org/pdf/2412.06464)] [[Code](https://github.com/NVlabs/GatedDeltaNet)]
 
 
-## Continous Sign Language Recognition
 
-### 会议
+## Sign Language Recognition
 
-#### 2023
+### Isolated Sign Language Recognition
 
-- **【ACMMM 2023】AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition** [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611745)
-- **【ICCV 2023】CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
-- **【ICCV 2023】Improving Continuous Sign Language Recognition with Cross-Lingual Signs**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Improving_Continuous_Sign_Language_Recognition_with_Cross-Lingual_Signs_ICCV_2023_paper.html)]
-- **【ICCV 2023】C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
-- **【EMNLP Findings 2023]】Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods.** [[paper\]](https://aclanthology.org/2023.findings-emnlp.198/)
-- **【AAAI 2023】Self-Emphasizing Network for Continuous Sign Language Recognition**. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25164)] [[Code]](https://github.com/hulianyuyy/SEN_CSLR)
-- **【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment**. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html)] [[Code](https://github.com/binbinjiang/CVT-SLR)]
-- **【CVPR 2023】Continuous Sign Language Recognition with Correlation Network**. . [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)] [[Code](https://github.com/hulianyuyy/CorrNet)]
-- **【CVPR 2023】Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)]
+- Conference
 
-#### 2024
+  - **【ICCV 2023】Human Part-wise 3D Motion Context Learning for Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Human_Part-wise_3D_Motion_Context_Learning_for_Sign_Language_Recognition_ICCV_2023_paper.pdf)]
+  - **【CVPR 2023】Natural Language-Assisted Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zuo_Natural_Language-Assisted_Sign_Language_Recognition_CVPR_2023_paper.html)] [[Code](https://github.com/FangyunWei/SLRT/tree/main/NLA-SLR)]
+  - **【CVPRW 2023】Isolated Sign Language Recognition based on Tree Structure Skeleton Images**. [[Paper](https://arxiv.org/pdf/2304.05403.pdf)] [[Code](https://github.com/davidlainesv/SL-TSSI-DenseNet)]
+  - **【AAAI 2023】BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization**. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25470)]
+  - 【ICCVW 2023】New keypoint-based approach for recognising British Sign Language (BSL) from sequences. [[Paper](https://arxiv.org/search/?query=sign+language&searchtype=all&source=header)]
 
-- **【ECCV 2024】 EvSign: Sign Language Recognition and Translation with Streaming Events.** [[paper\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00799.pdf)
-- **【EMNLP 2024】Towards Online Continuous Sign Language Recognition and Translation.** [[paper\]](https://aclanthology.org/2024.emnlp-main.619/)]
-- **【CVPR 2024】SignGraph: A Sign Sequence is Worth Graphs of Nodes.** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.pdf) [[code]](https://github.com/gswycf/SignGraph/tree/main)
-- 【COLING 2024】Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[code](https://github.com/hulianyuyy/DSTA-SLR)].
+- Journal
 
-### 期刊
+  - **（TIP 2023）Self-Supervised Representation Learning with Spatial-Temporal Consistency for Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2406.10501)] [[Code](https://github.com/sakura2233565548/Self-Supervised-Representation-Learning-with-Spatial-Temporal-Consistency-for-SLR)]
 
-#### 2023
+  - **（TCSVT 2024）MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2405.20666)] [[Code](https://github.com/sakura2233565548/MASA)]
 
-- **【TMM 2023】Prior-Aware Cross Modality Augmentation Learning for Continuous Sign Language Recognition**. [[Paper](https://ieeexplore.ieee.org/document/10105511)]
-- 【TETCI 2024】Spatial Temporal Aggregation for Efficient Continuous Sign Language Recognition. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488467)]
-- 【Pattern Recognition 2023】Scalable Frame Resolution for Efficient Continuous Sign Language Recognition. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323006015)]
+- Preprint
+  - 「Arxiv 2024.01.14」Revolutionizing Communication with Deep Learning and XAI for Enhanced Arabic Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2501.08169)]
+  - 「Arxiv 2024.01.16」Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues. [[Paper](https://arxiv.org/pdf/2501.09754)]
+  - 「Arxiv 2024.12.10」Real-time Sign Language Recognition Using MobileNetV2 and Transfer Learning. [[Paper](https://arxiv.org/pdf/2412.07486)]
+  - 「Arxiv 2024.12.16」Training Strategies for Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2412.11553)]
+  - 「Arxiv 2024.12.24」Learning Sign Language Representation using CNN LSTM, 3DCNN, CNN RNN LSTM and CCN TD. [[Paper](https://arxiv.org/pdf/2412.18187)]
+  - 「Arxiv 2025.02.04」Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2502.02196)]
 
-### Arxiv
+### Continous Sign Language Recognition
 
-#### 2024
+- Conference
 
-* 「Arxiv 2024.04.12」Improving Continuous Sign Language Recognition with Adapted Image Models [[Paper](https://arxiv.org/pdf/2404.08226)] [[Code](https://github.com/hulianyuyy/AdaptSign)]
-* 「Arxiv 2024.04.17」CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation [[Paper](https://arxiv.org/pdf/2404.11111)] [[Code](https://github.com/hulianyuyy/CorrNet_Plus)]
-* 「Arxiv 2024.05.02」A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News [[Paper](https://arxiv.org/pdf/2405.00980)]
-* 「Arxiv 2024.09.02」SCOPE: Sign Language Contextual Processing with Embedding from LLMs [[Paper](https://arxiv.org/pdf/2409.01073)]
+  - **【ACMMM 2023】AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition**. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611745)
+
+  - **【ICCV 2023】CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
+
+  - **【ICCV 2023】Improving Continuous Sign Language Recognition with Cross-Lingual Signs**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Improving_Continuous_Sign_Language_Recognition_with_Cross-Lingual_Signs_ICCV_2023_paper.html)]
+
+  - **【ICCV 2023】C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
+
+  - **【EMNLP Findings 2023]】Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods.** [[paper\]](https://aclanthology.org/2023.findings-emnlp.198/)
+
+  - **【AAAI 2023】Self-Emphasizing Network for Continuous Sign Language Recognition**. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25164)] [[Code]](https://github.com/hulianyuyy/SEN_CSLR)
+
+  - **【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment**. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html)] [[Code](https://github.com/binbinjiang/CVT-SLR)]
+
+  - **【CVPR 2023】Continuous Sign Language Recognition with Correlation Network**. . [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)] [[Code](https://github.com/hulianyuyy/CorrNet)]
+
+  - **【CVPR 2023】Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)]
+
+  - **【ECCV 2024】 EvSign: Sign Language Recognition and Translation with Streaming Events.** [[paper\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00799.pdf)
+
+  - **【EMNLP 2024】Towards Online Continuous Sign Language Recognition and Translation.** [[paper\]](https://aclanthology.org/2024.emnlp-main.619/)]
+
+  - **【AAAI 2024】KD-MSLRT: Lightweight Sign Language Recognition Model Based on Mediapipe and 3D to 1D Knowledge Distillation**. [[Paper](https://arxiv.org/pdf/2501.02321)]
+
+  - **【CVPR 2024】SignGraph: A Sign Sequence is Worth Graphs of Nodes.** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.pdf) [[code]](https://github.com/gswycf/SignGraph/tree/main)
+
+  - 【COLING 2024】Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[code](https://github.com/hulianyuyy/DSTA-SLR)].
+
+- Journal
+
+  - **（TMM 2023）Prior-Aware Cross Modality Augmentation Learning for Continuous Sign Language Recognition**. [[Paper](https://ieeexplore.ieee.org/document/10105511)]
+
+  - （TETCI 2024）Spatial Temporal Aggregation for Efficient Continuous Sign Language Recognition. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488467)]
+
+  - （Pattern Recognition 2023）Scalable Frame Resolution for Efficient Continuous Sign Language Recognition. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323006015)]
+
+- Preprint
+
+  * 「Arxiv 2024.04.12」Improving Continuous Sign Language Recognition with Adapted Image Models [[Paper](https://arxiv.org/pdf/2404.08226)] [[Code](https://github.com/hulianyuyy/AdaptSign)]
+
+  * 「Arxiv 2024.04.17」CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation [[Paper](https://arxiv.org/pdf/2404.11111)] [[Code](https://github.com/hulianyuyy/CorrNet_Plus)]
+
+  * 「Arxiv 2024.05.02」A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News [[Paper](https://arxiv.org/pdf/2405.00980)]
+
+  * 「Arxiv 2024.09.02」SCOPE: Sign Language Contextual Processing with Embedding from LLMs [[Paper](https://arxiv.org/pdf/2409.01073)]
+
+
+## Sign Language Translation
+
+- Conference
+
+  - **【ICLR 2023】SLTUNET: A Simple Unified Model for Sign Language Translation**. [[paper](https://openreview.net/forum?id=EBS4C77p_5S)] [[Code](https://github.com/bzhangGo/sltunet)]
+
+  - **【ACL 2023】Gloss-Free End-to-End Sign Language Translation**. [[Paper](https://aclanthology.org/2023.acl-long.722/)] [[Code](https://github.com/HenryLittle/GloFE)]
+
+  - **【ACL 2023】Neural Machine Translation Methods for Translating Text to Sign Language Glosses**. [[Paper](https://aclanthology.org/2023.acl-long.700/)]
+
+  - **【ACL 2023】Considerations for meaningful sign language machine translation based on glosses**. [[Paper](https://aclanthology.org/2023.acl-short.60/)]
+
+  - **【ACL 2023】ISLTranslate: Dataset for Translating Indian Sign Language**. [[Paper](https://aclanthology.org/2023.findings-acl.665/)] [[Code](https://github.com/Exploration-Lab/ISLTranslate)]
+
+  - **【EMNLP 2023】Cross-modality Data Augmentation for End-to-End Sign Language Translation**. [[paper](https://arxiv.org/pdf/2305.11096.pdf)] [[Code](https://github.com/Atrewin/SignXmDA)]
+
+  - **【NeurIPS 2023】YouTube-ASL: A Large-Scale, Open-Domain American Sign Language-English Parallel Corpus**. [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/5c61452daca5f0c260e683b317d13a3f-Paper-Datasets_and_Benchmarks.pdf)]
+
+  - **【CVPRW 2023】Sign Language Translation from Instructional Videos**. [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/WiCV/papers/Tarres_Sign_Language_Translation_from_Instructional_Videos_CVPRW_2023_paper.pdf)] [[Project](https://imatge-upc.github.io/slt_how2sign_wicv2023/)] [[Code](https://github.com/imatge-upc/slt_how2sign_wicv2023)]
+
+  - **【CVPR 2023】Gloss Attention for Gloss-free Sign Language Translation**. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_Gloss_Attention_for_Gloss-Free_Sign_Language_Translation_CVPR_2023_paper.html)] [[Code](https://github.com/YinAoXiong/GASLT)]
+
+  - **【ICCV 2023】Sign Language Translation with Iterative Prototype**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Yao_Sign_Language_Translation_with_Iterative_Prototype_ICCV_2023_paper.html)]
+
+  - **【ICCV 2023】Gloss-free Sign Language Translation: Improving from Visual-Language Pretraining**. [[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Gloss-Free_Sign_Language_Translation_Improving_from_Visual-Language_Pretraining_ICCV_2023_paper.html)] [[Code](https://github.com/zhoubenjia/GFSLT-VLP)]
+
+  - **【ACL 2024】Sign Language Translation with Sentence Embedding Supervision**. [[paper](https://aclanthology.org/2024.acl-short.40.pdf)]
+
+  - **【ICLR 2024】Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**. [[paper](https://openreview.net/forum?id=LqaEEs3UxU)]
+
+  - **【AAAI 2024】Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**. [[paper](https://arxiv.org/pdf/2312.15645.pdf)] [[Code](https://github.com/rzhao-zhsq/CV-SLT)]
+
+  - **【LREC-COLING 2024】Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation**. [[paper](https://arxiv.org/pdf/2403.12556.pdf)]
+
+  - **【ACL 2024】Towards Privacy-Aware Sign Language Translation at Scale**. [[Paper](https://arxiv.org/pdf/2402.09611)] [[Code](https://github.com/facebookresearch/ssvp_slt)]
+
+  - **【CVPR 2024】LLMs are Good Sign Language Translators**. [[paper](https://arxiv.org/pdf/2404.00925)]
+
+  - **【NeurIPS 2024】Improving Gloss-free Sign Language Translation by Reducing Representation Density**. [[paper](https://openreview.net/forum?id=FtzLbGoHW2)] [[code](https://github.com/JinhuiYE/SignCL)]
+
+- Preprint
+
+  - 「Arxiv 2024.12.21」Real-time Bangla Sign Language Translator. [[Paper](https://arxiv.org/pdf/2412.16497)]
+
+  - 「Arxiv 2024.12.21」LLaVA-SLT: Visual Language Tuning for Sign Language Translation. [[Paper](https://arxiv.org/pdf/2412.16524)]
+  - 「Arxiv 2024.12.24」Improvement in Sign Language Translation Using Text CTC Alignment. [[Paper](https://arxiv.org/pdf/2412.09014)]
+
+  - 「Arxiv 2025.02.04」 Spatio-temporal transformer to support automatic sign language translation. [[Paper](https://arxiv.org/pdf/2502.02587)]
+
+
+
+## Fingerspelling Recognition
+
+- Preprint
+  - 「Arxiv 2025.02.15」SpellRing: Recognizing Continuous Fingerspelling in American Sign Language using a Ring. [[Paper](https://arxiv.org/pdf/2502.10830)]
+
+
+
+## Sign Language Prodiction
+
+- Preprint
+  - 「Arxiv 2024.12.05」DiffSign: AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism. [[Paper](https://arxiv.org/pdf/2412.03878)]
+  - 「Arxiv 2024.12.19」Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production. [[Paper](https://arxiv.org/pdf/2412.13609)] [[Code](https://github.com/NaVi-start/Sign-IDD)]
+  - 「Arxiv 2024.12.22」Linguistics-Vision Monotonic Consistent Network for Sign Language Production. [[Paper](https://arxiv.org/pdf/2412.16944)]
+  - 「Arxiv 2025.01.01」Beyond Words: AuralLLM and SignMST-C for Precise Sign Language Production and Bidirectional Accessibility. [[Paper](https://arxiv.org/pdf/2501.00765)]
+  - 「Arxiv 2025.01.12」Comparison of Autoencoders for tokenization of ASL datasets. [[Paper](https://arxiv.org/pdf/2501.06942)]
+  - 「Arxiv 2025.02.08」Towards AI-driven Sign Language Generation with Non-manual Markers. [[Paper](https://arxiv.org/pdf/2502.05661)]
 
 ## Sign Language Understanding 
 
-#### 2024
-
 - 「Arxiv 2024.08.16」Scaling up Multimodal Pre-training for Sign Language Understanding [[Paper](https://arxiv.org/pdf/2408.08544)]
-
-#### 2025
 
 - 「Arxiv 2025.01.28」Uni-Sign: Toward Unified Sign Language Understanding at Scale [[Paper](https://arxiv.org/pdf/2501.15187)] [[Code](https://github.com/ZechengLi19/Uni-Sign)]
 
 
 
 ### Video Understanding
+
+
+
+
+
+
+
+2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset
+
+Real-Time Multilingual Sign Language Processing
+
+
+
+- [x] 2025.01
+- [x] 2024.12
+- [ ] 2024.11
+- [ ] 2024.10
+- [ ] 2024.09
+- [ ] 2024.08
+- [ ] 2024.07
+- [ ] 2024.06
+- [ ] 2024.05
+- [ ] 2024.04
+- [ ] 2024.03
+- [ ] 2024.02
+- [ ] 2024.01
+- [ ] 2023.12
+- [ ] 2023.11
+- [ ] 2023.10
+- [ ] 2023.09
+- [ ] 2023.08
+- [ ] 2023.07
+- [ ] 2023.06
+- [ ] 2023.05
+- [ ] 2023.04
+- [ ] 2023.03
+- [ ] 2023.02
+- [ ] 2023.01
