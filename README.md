@@ -1,3 +1,31 @@
+## Update Log
+
+- [x] 2025.01
+- [x] 2024.12
+- [x] 2024.11
+- [ ] 2024.10
+- [ ] 2024.09
+- [ ] 2024.08
+- [ ] 2024.07
+- [ ] 2024.06
+- [ ] 2024.05
+- [ ] 2024.04
+- [ ] 2024.03
+- [ ] 2024.02
+- [ ] 2024.01
+- [ ] 2023.12
+- [ ] 2023.11
+- [ ] 2023.10
+- [ ] 2023.09
+- [ ] 2023.08
+- [ ] 2023.07
+- [ ] 2023.06
+- [ ] 2023.05
+- [ ] 2023.04
+- [ ] 2023.03
+- [ ] 2023.02
+- [ ] 2023.01
+
 ## Sequence Modeling
 
 
@@ -45,6 +73,7 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 - Preprint
   - 「Arxiv 2024.01.14」Revolutionizing Communication with Deep Learning and XAI for Enhanced Arabic Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2501.08169)]
   - 「Arxiv 2024.01.16」Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues. [[Paper](https://arxiv.org/pdf/2501.09754)]
+  - 「Arxiv 2024.11.10」Classification in Japanese Sign Language Based on Dynamic Facial Expressions. [[Paper](https://arxiv.org/search/?query=sign+language&searchtype=all&source=header&order=-announced_date_first&size=50&abstracts=show&start=50)]
   - 「Arxiv 2024.12.10」Real-time Sign Language Recognition Using MobileNetV2 and Transfer Learning. [[Paper](https://arxiv.org/pdf/2412.07486)]
   - 「Arxiv 2024.12.16」Training Strategies for Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2412.11553)]
   - 「Arxiv 2024.12.24」Learning Sign Language Representation using CNN LSTM, 3DCNN, CNN RNN LSTM and CCN TD. [[Paper](https://arxiv.org/pdf/2412.18187)]
@@ -99,6 +128,7 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
   * 「Arxiv 2024.05.02」A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News [[Paper](https://arxiv.org/pdf/2405.00980)]
 
   * 「Arxiv 2024.09.02」SCOPE: Sign Language Contextual Processing with Embedding from LLMs [[Paper](https://arxiv.org/pdf/2409.01073)]
+  * 「Arxiv 2024.11.07」Continuous Sign Language Recognition System using Deep Learning with MediaPipe Holistic. [[Paper](https://arxiv.org/pdf/2411.04517)]
 
 
 ## Sign Language Translation
@@ -143,6 +173,10 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 
 - Preprint
 
+  - 「Arxiv 2024.11.19」Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs. [[Paper](https://arxiv.org/pdf/2411.12685)]
+  - 「Arxiv 2024.11.19」Signformer is all you need: Towards Edge AI for Sign Language. [[Paper](https://arxiv.org/pdf/2411.12901)]
+  - 「Arxiv 2024.11.25」SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction. [[Paper](https://arxiv.org/pdf/2411.16789)]
+  - 「Arxiv 2024.11.25」Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation. [[Paper](https://arxiv.org/pdf/2411.16789)]
   - 「Arxiv 2024.12.21」Real-time Bangla Sign Language Translator. [[Paper](https://arxiv.org/pdf/2412.16497)]
 
   - 「Arxiv 2024.12.21」LLaVA-SLT: Visual Language Tuning for Sign Language Translation. [[Paper](https://arxiv.org/pdf/2412.16524)]
@@ -155,6 +189,7 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 ## Fingerspelling Recognition
 
 - Preprint
+  - 「Arxiv 2024.11.23」AzSLD: Azerbaijani Sign Language Dataset for Fingerspelling, Word, and Sentence Translation with Baseline Software. [[Paper](https://arxiv.org/pdf/2411.12865)]
   - 「Arxiv 2025.02.15」SpellRing: Recognizing Continuous Fingerspelling in American Sign Language using a Ring. [[Paper](https://arxiv.org/pdf/2502.10830)]
 
 
@@ -162,6 +197,8 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 ## Sign Language Prodiction
 
 - Preprint
+  - 「Arxiv 2024.11.26」DiffSLT: Enhancing Diversity in Sign Language Translation via Diffusion Model. [[Paper](https://arxiv.org/pdf/2411.17248)]
+  - 「Arxiv 2024.11.26」Signs as Tokens: An Autoregressive Multilingual Sign Language Generator. [[Paper](https://arxiv.org/pdf/2411.17799)]
   - 「Arxiv 2024.12.05」DiffSign: AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism. [[Paper](https://arxiv.org/pdf/2412.03878)]
   - 「Arxiv 2024.12.19」Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production. [[Paper](https://arxiv.org/pdf/2412.13609)] [[Code](https://github.com/NaVi-start/Sign-IDD)]
   - 「Arxiv 2024.12.22」Linguistics-Vision Monotonic Consistent Network for Sign Language Production. [[Paper](https://arxiv.org/pdf/2412.16944)]
@@ -181,38 +218,10 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 
 
 
+## Uncategory
 
+- ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles
+- 2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset
+- Real-Time Multilingual Sign Language Processing
 
-
-
-2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset
-
-Real-Time Multilingual Sign Language Processing
-
-
-
-- [x] 2025.01
-- [x] 2024.12
-- [ ] 2024.11
-- [ ] 2024.10
-- [ ] 2024.09
-- [ ] 2024.08
-- [ ] 2024.07
-- [ ] 2024.06
-- [ ] 2024.05
-- [ ] 2024.04
-- [ ] 2024.03
-- [ ] 2024.02
-- [ ] 2024.01
-- [ ] 2023.12
-- [ ] 2023.11
-- [ ] 2023.10
-- [ ] 2023.09
-- [ ] 2023.08
-- [ ] 2023.07
-- [ ] 2023.06
-- [ ] 2023.05
-- [ ] 2023.04
-- [ ] 2023.03
-- [ ] 2023.02
-- [ ] 2023.01
+- [ ] 
