@@ -1,29 +1,3 @@
-## Sequence Modeling
-
-
-
-[Arxiv 2018] An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
-
-Gated Linear Attention Transformers with Hardware-Efficient Training
-
-Long Short-Term Memory
-
-DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders
-
-An Uncertainty Principle for Linear Recurrent Neural Networks
-
-SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
-
-【NeurIPS 2024】Parallelizing Linear Transformers with the Delta Rule over Sequence Length. [[Paper](https://arxiv.org/pdf/2406.06484)]
-
-「Arxiv 2024.08.11」Learning to (Learn at Test Time): RNNs with Expressive Hidden States. [[Paper](https://arxiv.org/pdf/2407.04620)] [[Code](https://github.com/test-time-training/ttt-lm-pytorch)]
-
-「Arxiv 2024.08.27」Gated Linear Attention Transformers with Hardware-Efficient Training. [[Paper](https://arxiv.org/pdf/2312.06635)]
-
-「Arxiv 2024.11.09」Gated Delta Networks: Improving Mamba2 with Delta Rule. [[Paper](https://arxiv.org/pdf/2412.06464)] [[Code](https://github.com/NVlabs/GatedDeltaNet)]
-
-
-
 ## Sign Language Recognition
 
 ### Isolated Sign Language Recognition
@@ -43,6 +17,13 @@ Journal
   - **（TCSVT 2024）MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2405.20666)] [[Code](https://github.com/sakura2233565548/MASA)]
 
 Preprint
+  - 「Arxiv 2024.01.22」Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2401.12210)]
+  - 「Arxiv 2024.02.13」BdSLW60: A Word-Level Bangla Sign Language Dataset. [[Paper](https://arxiv.org/pdf/2402.08635)]
+  - 「Arxiv 2024.03.19」Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2403.12519)]
+  - 「Arxiv 2024.04.15」Transfer Learning for Cross-dataset Isolated Sign Language Recognition in Under-Resourced Datasets. [[Paper](https://arxiv.org/pdf/2403.14534)]
+  - 「Arxiv 2024.04.24」Sign Language Recognition based on YOLOv5 Algorithm for the Telugu Sign Language. [[Paper](https://arxiv.org/pdf/2406.10231)]
+  - 「Arxiv 2024.04.29」Enhancing Brazilian Sign Language Recognition through Skeleton Image Representation. [[Paper](https://arxiv.org/pdf/2404.19148)]
+  - 「Arxiv 2024.06.24」PenSLR: Persian end-to-end Sign Language Recognition Using Ensembling. [[Paper](https://arxiv.org/pdf/2406.16388)]
   - 「Arxiv 2024.07.02」Sign Language Recognition Based On Facial Expression and Hand Skeleton. [[Paper](https://arxiv.org/pdf/2407.02241)]
   - 「Arxiv 2024.06.27」A Transformer-Based Multi-Stream Approach for Isolated Iranian Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2407.09544)]
   - 「Arxiv 2024.07.07」iSign: A Benchmark for Indian Sign Language Processing. [[Paper](https://arxiv.org/pdf/2407.05404)]
@@ -100,16 +81,17 @@ Journal
 
 Preprint
 
-  * 「Arxiv 2024.04.21」Stream State-tying for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2407.10975)]
-
-  * 「Arxiv 2024.08.14」Sign language recognition based on deep learning and low-cost handcrafted descriptors. [[Paper](https://arxiv.org/pdf/2408.07244)]
-
+  * 「Arxiv 2024.01.22」SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning. [[Paper](https://arxiv.org/pdf/2401.11847)]
+  * 「Arxiv 2024.02.29」Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation. [[Paper](https://arxiv.org/pdf/2402.19118)]
+  * 「Arxiv 2024.03.18」TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions. [[Paper](https://arxiv.org/pdf/2403.11818)]
   * 「Arxiv 2024.04.12」Improving Continuous Sign Language Recognition with Adapted Image Models [[Paper](https://arxiv.org/pdf/2404.08226)] [[Code](https://github.com/hulianyuyy/AdaptSign)]
-
   * 「Arxiv 2024.04.17」CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation [[Paper](https://arxiv.org/pdf/2404.11111)] [[Code](https://github.com/hulianyuyy/CorrNet_Plus)]
-
+  * 「Arxiv 2024.04.21」Stream State-tying for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2407.10975)]
   * 「Arxiv 2024.05.02」A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News [[Paper](https://arxiv.org/pdf/2405.00980)]
-
+  * 「Arxiv 2024.05.16」A Tale of Two Languages: Large-Vocabulary Continuous Sign Language Recognition from Spoken Language Supervision. [[Paper](https://arxiv.org/pdf/2405.10266)]
+  * 「Arxiv 2024.05.20」Continuous Sign Language Recognition with Adapted Conformer via Unsupervised Pretraining. [[Paper](https://arxiv.org/pdf/2405.12018)]
+  * 「Arxiv 2024.06.26」Continuous Sign Language Recognition Using Intra-inter Gloss Attention. [[Paper](https://arxiv.org/pdf/2406.18333)]
+  * 「Arxiv 2024.08.14」Sign language recognition based on deep learning and low-cost handcrafted descriptors. [[Paper](https://arxiv.org/pdf/2408.07244)]
   * 「Arxiv 2024.09.02」SCOPE: Sign Language Contextual Processing with Embedding from LLMs [[Paper](https://arxiv.org/pdf/2409.01073)]
   * 「Arxiv 2024.09.18」A Chinese Continuous Sign Language Dataset Based on Complex Environments. [[Paper](https://arxiv.org/pdf/2409.11960)]
   * 「Arxiv 2024.11.07」Continuous Sign Language Recognition System using Deep Learning with MediaPipe Holistic. [[Paper](https://arxiv.org/pdf/2411.04517)]
@@ -137,11 +119,21 @@ Conference
 - **【ACL 2024】Towards Privacy-Aware Sign Language Translation at Scale**. [[Paper](https://arxiv.org/pdf/2402.09611)] [[Code](https://github.com/facebookresearch/ssvp_slt)]
 - **【CVPR 2024】LLMs are Good Sign Language Translators**. [[paper](https://arxiv.org/pdf/2404.00925)]
 - **【NeurIPS 2024】Improving Gloss-free Sign Language Translation by Reducing Representation Density**. [[paper](https://openreview.net/forum?id=FtzLbGoHW2)] [[code](https://github.com/JinhuiYE/SignCL)]
+- 【ECCV 2024】A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [[Paper](https://arxiv.org/pdf/2401.04730)]
 
 Preprint
 
+- 「Arxiv 2024.02.11」American Sign Language Video to Text Translation. [[Paper](https://arxiv.org/pdf/2402.07255)]
+- 「Arxiv 2024.02.12」Unsupervised Sign Language Translation and Generation. [[Paper](https://arxiv.org/pdf/2402.07726)]
+- 「Arxiv 2024.02.14」Towards Privacy-Aware Sign Language Translation at Scale. [[Paper](https://arxiv.org/pdf/2402.09611)]
+- 「Arxiv 2024.03.19」Factorized Learning Assisted with Large Language Model for Gloss-free Sign Language Translation. [[Paper](https://arxiv.org/pdf/2403.12556)]
+- 「Arxiv 2024.05.09」Multi-Stream Keypoint Attention Network for Sign Language Recognition and Translation. [[Paper](https://arxiv.org/pdf/2405.05672)]
+- 「Arxiv 2024.06.10」SignBLEU: Automatic Evaluation of Multi-channel Sign Language Translation. [[Paper](https://arxiv.org/pdf/2406.06648)]
+- 「Arxiv 2024.06.11」SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale. [[Paper](https://arxiv.org/pdf/2406.06907)]
+- 「Arxiv 2024.06.16」Reconsidering Sentence-Level Sign Language Translation. [[Paper](https://arxiv.org/pdf/2406.11049)]
 - 「Arxiv 2024.07.12」Gloss2Text: Sign Language Gloss translation using LLMs and Semantically Aware Label Smoothing. [[Paper](https://arxiv.org/pdf/2407.01394)]
 - 「Arxiv 2024.07.16」Scaling Sign Language Translation. [[Paper](https://arxiv.org/pdf/2407.11855)]
+- 「Arxiv 2024.07.23」E-TSL: A Continuous Educational Turkish Sign Language Dataset with Baseline Methods. [[Paper](https://arxiv.org/pdf/2405.02984)]
 - 「Arxiv 2024.08.13」Fingerspelling within Sign Language Translation. [[Paper](https://arxiv.org/pdf/2408.07065)]
 - 「Arxiv 2024.08.19」C2RL: Content and Context Representation Learning for Gloss-free Sign Language Translation and Retrieval. [[Paper](https://arxiv.org/pdf/2408.09949)]
 - 「Arxiv 2024.08.20」Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm. [[Paper](https://arxiv.org/pdf/2408.10488)]
@@ -180,12 +172,18 @@ Preprint
 Conference
 
 - **【ECCV 2024】Pose-Guided Fine-Grained Sign Language Video Generation**. [[Paper](https://arxiv.org/pdf/2409.16709)]
+- **【ACL 2024】T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text**. [[Paper](https://arxiv.org/pdf/2406.07119)]
+- 【BMVC 2024】Sign Stitching: A Novel Approach to Sign Language Production. [[Paper](https://arxiv.org/pdf/2405.07663)]
 
 Preprint
 
+- 「Arxiv 2024.04.17」Select and Reorder: A Novel Approach for Neural Sign Language Production. [[Paper](https://arxiv.org/pdf/2404.11532)]
+- 「Arxiv 2024.12.07」SignAvatar: Sign Language 3D Motion Reconstruction and Generation. [[Paper](https://arxiv.org/pdf/2405.07974)]
+- 「Arxiv 2024.05.16」Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder. [[Paper](https://arxiv.org/pdf/2405.10423)]
 - 「Arxiv 2024.07.04」MS2SL: Multimodal Spoken Data-Driven Continuous Sign Language Production. [[Paper](https://arxiv.org/pdf/2407.12842)]
 - 「Arxiv 2024.11.26」DiffSLT: Enhancing Diversity in Sign Language Translation via Diffusion Model. [[Paper](https://arxiv.org/pdf/2411.17248)]
 - 「Arxiv 2024.11.26」Signs as Tokens: An Autoregressive Multilingual Sign Language Generator. [[Paper](https://arxiv.org/pdf/2411.17799)]
+- 「Arxiv 2024.11.29」SignLLM: Sign Language Production Large Language Models. [[Paper](https://arxiv.org/pdf/2405.10718)]
 - 「Arxiv 2024.12.05」DiffSign: AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism. [[Paper](https://arxiv.org/pdf/2412.03878)]
 - 「Arxiv 2024.12.19」Sign-IDD: Iconicity Disentangled Diffusion for Sign Language Production. [[Paper](https://arxiv.org/pdf/2412.13609)] [[Code](https://github.com/NaVi-start/Sign-IDD)]
 - 「Arxiv 2024.12.22」Linguistics-Vision Monotonic Consistent Network for Sign Language Production. [[Paper](https://arxiv.org/pdf/2412.16944)]
@@ -204,13 +202,40 @@ Preprint
 ## Sign Language Detection
 
 - Real Time American Sign Language Detection Using Yolo-v9
+- Enhancing Sign Language Detection through Mediapipe and Convolutional Neural Networks (CNN)
+- A Transformer Model for Boundary Detection in Continuous Sign Language
 
 ## Sign Language Retrieval
 
 - SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval
 - SLVideo: A Sign Language Video Moment Retrieval Framework
+- Uncertainty-aware sign language video retrieval with probability distribution modeling
 
-### Video Understanding
+## Video Understanding
+
+pass
+
+## Sequence Modeling
+
+[Arxiv 2018] An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
+
+Gated Linear Attention Transformers with Hardware-Efficient Training
+
+Long Short-Term Memory
+
+DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders
+
+An Uncertainty Principle for Linear Recurrent Neural Networks
+
+SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
+
+【NeurIPS 2024】Parallelizing Linear Transformers with the Delta Rule over Sequence Length. [[Paper](https://arxiv.org/pdf/2406.06484)]
+
+「Arxiv 2024.08.11」Learning to (Learn at Test Time): RNNs with Expressive Hidden States. [[Paper](https://arxiv.org/pdf/2407.04620)] [[Code](https://github.com/test-time-training/ttt-lm-pytorch)]
+
+「Arxiv 2024.08.27」Gated Linear Attention Transformers with Hardware-Efficient Training. [[Paper](https://arxiv.org/pdf/2312.06635)]
+
+「Arxiv 2024.11.09」Gated Delta Networks: Improving Mamba2 with Delta Rule. [[Paper](https://arxiv.org/pdf/2412.06464)] [[Code](https://github.com/NVlabs/GatedDeltaNet)]
 
 ## Uncategory
 
@@ -218,6 +243,7 @@ Preprint
 - 2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset
 - Real-Time Multilingual Sign Language Processing
 - SignCLIP: Connecting Text and Sign Language by Contrastive Learning
+- A Comparative Study of Continuous Sign Language Recognition Techniques
 
 ------
 
@@ -230,21 +256,9 @@ Update Log
 - [x] 2024.09
 - [x] 2024.08
 - [x] 2024.07
-- [ ] 2024.06
-- [ ] 2024.05
-- [ ] 2024.04
-- [ ] 2024.03
-- [ ] 2024.02
-- [ ] 2024.01
-- [ ] 2023.12
-- [ ] 2023.11
-- [ ] 2023.10
-- [ ] 2023.09
-- [ ] 2023.08
-- [ ] 2023.07
-- [ ] 2023.06
-- [ ] 2023.05
-- [ ] 2023.04
-- [ ] 2023.03
-- [ ] 2023.02
-- [ ] 2023.01
+- [x] 2024.06
+- [x] 2024.05
+- [x] 2024.04
+- [x] 2024.03
+- [x] 2024.02
+- [x] 2024.01
