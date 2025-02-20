@@ -12,7 +12,7 @@ Conference
 - **【NeurIPS 2023】PopSign ASL v1.0: An Isolated American Sign Language Dataset Collected via Smartphones**. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/00dada608b8db212ea7d9d92b24c68de-Paper-Datasets_and_Benchmarks.pdf)]
 - **【NeurIPS 2023】ASL Citizen: A Community-Sourced Dataset for Advancing Isolated Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2304.05934)]
 
-Withdraw
+Submittion
 
 - **【ICLR 2025】Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies**. [[Paper](https://openreview.net/pdf?id=flgrH5nK4H)]
 
@@ -73,6 +73,10 @@ Conference
 
 - **【AAAI 2024】KD-MSLRT: Lightweight Sign Language Recognition Model Based on Mediapipe and 3D to 1D Knowledge Distillation**. [[Paper](https://arxiv.org/pdf/2501.02321)]
 
+- **【AAAI 2024】Cross-Sentence Gloss Consistency for Continuous Sign Language Recognition. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28265/28521)]**
+
+- 【AAAI 2024】TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions. [[Paper](https://arxiv.org/pdf/2403.11818)]
+
 - **【CVPR 2024】SignGraph: A Sign Sequence is Worth Graphs of Nodes.** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.pdf) [[code]](https://github.com/gswycf/SignGraph/tree/main)
 
 - 【COLING 2024】Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[code](https://github.com/hulianyuyy/DSTA-SLR)].
@@ -93,7 +97,7 @@ Preprint
 
   * 「Arxiv 2024.01.22」SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning. [[Paper](https://arxiv.org/pdf/2401.11847)]
   * 「Arxiv 2024.02.29」Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation. [[Paper](https://arxiv.org/pdf/2402.19118)]
-  * 「Arxiv 2024.03.18」TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions. [[Paper](https://arxiv.org/pdf/2403.11818)]
+  * 
   * 「Arxiv 2024.04.12」Improving Continuous Sign Language Recognition with Adapted Image Models [[Paper](https://arxiv.org/pdf/2404.08226)] [[Code](https://github.com/hulianyuyy/AdaptSign)]
   * 「Arxiv 2024.04.17」CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation [[Paper](https://arxiv.org/pdf/2404.11111)] [[Code](https://github.com/hulianyuyy/CorrNet_Plus)]
   * 「Arxiv 2024.04.21」Stream State-tying for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2407.10975)]
@@ -157,6 +161,8 @@ Conference
 
 - 【ECCV 2024】A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [[Paper](https://arxiv.org/pdf/2401.04730)]
 
+- 【ECCV 2024】Visual Alignment Pre-training for Sign Language Translation. [[Paper](https://eccv.ecva.net/virtual/2024/poster/737)]
+
 - **【ICLR 2025】YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus**. [[Paper](https://arxiv.org/pdf/2407.11144)]
 
 Submittion
@@ -211,12 +217,13 @@ Preprint
 
 Conference
 
-- **【ECCV 2024】Pose-Guided Fine-Grained Sign Language Video Generation**. [[Paper](https://arxiv.org/pdf/2409.16709)]
+- **【ECCV 2024】Pose Guided Fine-Grained Sign Language Video Generation**. [[Paper](https://arxiv.org/pdf/2409.16709)]
+- 【ECCV 2024】SignGen: End-to-End Sign Language Video Generation with Latent Diffusion. [[Paper](https://eccv.ecva.net/virtual/2024/poster/2581)]
 - **【ACL 2024】T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text**. [[Paper](https://arxiv.org/pdf/2406.07119)]
 - 【BMVC 2024】Sign Stitching: A Novel Approach to Sign Language Production. [[Paper](https://arxiv.org/pdf/2405.07663)]
 - 【CVPR 2024】Neural Sign Actors: A Diffusion Model for 3D Sign Language Production from Text. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.pdf)]
 
-commition
+Submittion
 
 - **【ICLR 2024】NaturalSigner: Diffusion Models are Natural Sign Language Generator**. [[Paper](https://openreview.net/pdf?id=4JjSJyT15z)]
 - **【ICLR 2025】DiffSign: AI-Assisted Generation of Customizable Sign Language Videos With Enhanced Realism**. [[Paper](https://arxiv.org/pdf/2412.03878)]
@@ -241,10 +248,11 @@ Preprint
 Conference
 
 - **【ICLR 2025】Uni-Sign: Toward Unified Sign Language Understanding at Scale**. [[Paper](https://arxiv.org/pdf/2501.15187)] [[Code](https://github.com/ZechengLi19/Uni-Sign)]
+- 【ECCV 2024】SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark. [[Paper](https://arxiv.org/pdf/2310.20436)]
 
-Comittion
+Submittion
 
-- 【ICLR 2024】SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark. [[Paper](https://arxiv.org/pdf/2310.20436)]
+- 
 
 Preprint
 
@@ -262,7 +270,7 @@ Preprint
 - 【CVPR 2024】CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning
 - SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval
 - SLVideo: A Sign Language Video Moment Retrieval Framework
-- Uncertainty-aware sign language video retrieval with probability distribution modeling
+- 【ECCV 2024】Uncertainty-aware sign language video retrieval with probability distribution modeling
 
 ## Video Understanding
 
@@ -315,10 +323,9 @@ Conference
 - [x] NeruIPS 2023
 - [x] CVPR 2024
 - [x] CVPR 2023
-- [ ] ICCV 2023
-- [ ] ECCV 2024
-- [ ] AAAI 2025
-- [ ] AAAI 2024
+- [x] ICCV 2023
+- [x] ECCV 2024
+- [x] AAAI 2024
 - [ ] AAAI 2023
 - [ ] WWW 2025
 - [ ] WWW 2024
