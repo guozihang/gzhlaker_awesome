@@ -11,6 +11,7 @@ Conference
 - 【ICCVW 2023】New keypoint-based approach for recognising British Sign Language (BSL) from sequences. [[Paper](https://arxiv.org/search/?query=sign+language&searchtype=all&source=header)]
 - **【NeurIPS 2023】PopSign ASL v1.0: An Isolated American Sign Language Dataset Collected via Smartphones**. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/00dada608b8db212ea7d9d92b24c68de-Paper-Datasets_and_Benchmarks.pdf)]
 - **【NeurIPS 2023】ASL Citizen: A Community-Sourced Dataset for Advancing Isolated Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2304.05934)]
+- **【ACMMM 2024】Siformer: Feature-isolated Transformer for Efficient Skeleton-based Sign Language Recognition**. [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681578)]
 
 Submittion
 
@@ -51,6 +52,8 @@ Conference
 
 - **【ACMMM 2023】AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition**. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611745)
 
+- **【ACMMM 2023】Towards Real-Time Sign Language Recognition and Translation on Edge Devices**. [[Paper](https://dl.acm.org/doi/10.1145/3581783.3611820)]
+
 - **【ICCV 2023】CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
 
 - **【ICCV 2023】Improving Continuous Sign Language Recognition with Cross-Lingual Signs**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Improving_Continuous_Sign_Language_Recognition_with_Cross-Lingual_Signs_ICCV_2023_paper.html)]
@@ -80,6 +83,8 @@ Conference
 - **【CVPR 2024】SignGraph: A Sign Sequence is Worth Graphs of Nodes.** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.pdf) [[code]](https://github.com/gswycf/SignGraph/tree/main)
 
 - 【COLING 2024】Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[code](https://github.com/hulianyuyy/DSTA-SLR)].
+
+- 【IJCAI 2024】Contrastive Learning for Sign Language Recognition and Translation. [[Paper](https://www.ijcai.org/proceedings/2023/0085.pdf)]
 
 Submittion
 
@@ -162,6 +167,8 @@ Conference
 - 【ECCV 2024】A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars. [[Paper](https://arxiv.org/pdf/2401.04730)]
 
 - 【ECCV 2024】Visual Alignment Pre-training for Sign Language Translation. [[Paper](https://eccv.ecva.net/virtual/2024/poster/737)]
+
+- 【IJCAI 2024】Efficient Sign Language Translation with a Curriculum-based Non-autoregressive Decoder. [[Paper](https://www.ijcai.org/proceedings/2023/0584.pdf)]
 
 - **【ICLR 2025】YouTube-SL-25: A Large-Scale, Open-Domain Multilingual Sign Language Parallel Corpus**. [[Paper](https://arxiv.org/pdf/2407.11144)]
 
@@ -268,7 +275,7 @@ Preprint
 ## Sign Language Retrieval
 
 - 【CVPR 2024】CiCo: Domain-Aware Sign Language Retrieval via Cross-Lingual Contrastive Learning
-- SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval
+- 【ACMMM 2024】SEDS: Semantically Enhanced Dual-Stream Encoder for Sign Language Retrieval
 - SLVideo: A Sign Language Video Moment Retrieval Framework
 - 【ECCV 2024】Uncertainty-aware sign language video retrieval with probability distribution modeling
 
@@ -326,49 +333,35 @@ Conference
 - [x] ICCV 2023
 - [x] ECCV 2024
 - [x] AAAI 2024
-- [ ] AAAI 2023
-- [ ] WWW 2025
-- [ ] WWW 2024
-- [ ] WWW 2023
-- [ ] ACMMM 2025
-- [ ] ACMMM 2024
-- [ ] ACMMM 2023
+- [x] AAAI 2023
+- [x] WWW 2024
+- [x] WWW 2023
+- [x] ACMMM 2024
+- [x] ACMMM 2023
 - [x] SIGIR 2024
 - [x] SIGIR 2023
-- [ ] IJCAI 2025
-- [ ] IJCAI 2024
-- [ ] IJCAI 2023
-- [ ] KDD 2025
+- [x] IJCAI 2024
+- [x] IJCAI 2023
 - [ ] KDD 2024
 - [ ] KDD 2023
-- [ ] TPAMI 2025
 - [ ] TPAMI 2024
 - [ ] TPAMI 2023
-- [ ] JMLR 2025
 - [ ] JMLR 2024
 - [ ] JMLR 2023
-- [ ] TOG 2025
 - [ ] TOG 2024
 - [ ] TOG 2023
-- [ ] IJCV 2025
 - [ ] IJCV 2024
 - [ ] IJCV 2023
-- [ ] TIP 2025
 - [ ] TIP 2024
 - [ ] TIP 2023
-- [ ] TC 2025
 - [ ] TC 2024
 - [ ] TC 2023
-- [ ] TCSVT 2025
 - [ ] TCSVT 2024
 - [ ] TCSVT 2023
-- [ ] TMM 2025
 - [ ] TMM 2024
 - [ ] TMM 2023
-- [ ] TVCG 2025
 - [ ] TVCG 2024
 - [ ] TVCG 2023
-- [ ] PR 2025
 - [ ] PR 2024
 - [ ] PR 2023
 
