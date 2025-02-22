@@ -84,7 +84,7 @@ Conference
 
 - 【COLING 2024】Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[code](https://github.com/hulianyuyy/DSTA-SLR)].
 
-- 【IJCAI 2024】Contrastive Learning for Sign Language Recognition and Translation. [[Paper](https://www.ijcai.org/proceedings/2023/0085.pdf)]
+- 【IJCAI 2023】Contrastive Learning for Sign Language Recognition and Translation. [[Paper](https://www.ijcai.org/proceedings/2023/0085.pdf)]
 
 Submittion
 
@@ -342,12 +342,12 @@ Conference
 - [x] SIGIR 2023
 - [x] IJCAI 2024
 - [x] IJCAI 2023
-- [ ] KDD 2024
-- [ ] KDD 2023
+- [x] KDD 2024
+- [x] KDD 2023
 - [ ] TPAMI 2024
 - [ ] TPAMI 2023
-- [ ] JMLR 2024
-- [ ] JMLR 2023
+- [x] JMLR 2024
+- [x] JMLR 2023
 - [ ] TOG 2024
 - [ ] TOG 2023
 - [ ] IJCV 2024
