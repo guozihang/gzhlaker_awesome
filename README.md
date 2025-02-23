@@ -8,10 +8,13 @@ Conference
 - **【CVPR 2023】Natural Language-Assisted Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zuo_Natural_Language-Assisted_Sign_Language_Recognition_CVPR_2023_paper.html)] [[Code](https://github.com/FangyunWei/SLRT/tree/main/NLA-SLR)]
 - **【CVPRW 2023】Isolated Sign Language Recognition based on Tree Structure Skeleton Images**. [[Paper](https://arxiv.org/pdf/2304.05403.pdf)] [[Code](https://github.com/davidlainesv/SL-TSSI-DenseNet)]
 - **【AAAI 2023】BEST: BERT Pre-Training for Sign Language Recognition with Coupling Tokenization**. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25470)]
-- 【ICCVW 2023】New keypoint-based approach for recognising British Sign Language (BSL) from sequences. [[Paper](https://arxiv.org/search/?query=sign+language&searchtype=all&source=header)]
 - **【NeurIPS 2023】PopSign ASL v1.0: An Isolated American Sign Language Dataset Collected via Smartphones**. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/00dada608b8db212ea7d9d92b24c68de-Paper-Datasets_and_Benchmarks.pdf)]
 - **【NeurIPS 2023】ASL Citizen: A Community-Sourced Dataset for Advancing Isolated Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2304.05934)]
 - **【ACMMM 2024】Siformer: Feature-isolated Transformer for Efficient Skeleton-based Sign Language Recognition**. [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681578)]
+
+Workshop
+
+- 【ICCVW 2023】New keypoint-based approach for recognising British Sign Language (BSL) from sequences. [[Paper](https://arxiv.org/search/?query=sign+language&searchtype=all&source=header)]
 
 Submittion
 
@@ -339,64 +342,342 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 
 Update Log
 
-Conference
+**Conference**
 
-- [x] ICML 2024
-- [x] ICML 2023
-- [x] ICLR 2025
-- [x] ICLR 2024
-- [x] ICLR 2023
-- [x] NeruIPS 2024
-- [x] NeruIPS 2023
-- [x] CVPR 2024
-- [x] CVPR 2023
-- [x] ICCV 2023
-- [x] ECCV 2024
-- [x] AAAI 2024
-- [x] AAAI 2023
-- [x] WWW 2024
-- [x] WWW 2023
-- [x] ACMMM 2024
-- [x] ACMMM 2023
-- [x] SIGIR 2024
-- [x] SIGIR 2023
-- [x] IJCAI 2024
-- [x] IJCAI 2023
-- [x] KDD 2024
-- [x] KDD 2023
-- [x] TPAMI 2024
-- [x] TPAMI 2023
-- [x] JMLR 2024
-- [x] JMLR 2023
-- [x] TOG 2024
-- [x] TOG 2023
-- [x] IJCV 2024
-- [x] IJCV 2023
-- [x] TIP 2024
-- [x] TIP 2023
-- [x] TC 2024
-- [x] TC 2023
-- [x] TCSVT 2024
-- [x] TCSVT 2023
-- [x] TMM 2024
-- [x] TMM 2023
-- [x] TVCG 2024
-- [x] TVCG 2023
-- [x] PR 2024
-- [x] PR 2023
+ICML 2024
 
-Arxiv 2024
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
 
-- [x] 2025.01
-- [x] 2024.12
-- [x] 2024.11
-- [x] 2024.10
-- [x] 2024.09
-- [x] 2024.08
-- [x] 2024.07
-- [x] 2024.06
-- [x] 2024.05
-- [x] 2024.04
-- [x] 2024.03
-- [x] 2024.02
-- [x] 2024.01
+ICML 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+ICLR 2025
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+ICLR 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+ICLR 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+NeruIPS 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+NeruIPS 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+CVPR 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+CVPR 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+ICCV 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+ECCV 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+AAAI 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+AAAI 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+WWW 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+WWW 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+ACMMM 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+ACMMM 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+SIGIR 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+SIGIR 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+IJCAI 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+IJCAI 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+KDD 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+KDD 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TPAMI 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TPAMI 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+JMLR 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+JMLR 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TOG 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TOG 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+IJCV 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+IJCV 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TIP 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TIP 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TC 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TC 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TCSVT 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TCSVT 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TMM 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TMM 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TVCG 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+TVCG 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+PR 2024
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+PR 2023
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+**Arxiv** 
+
+2025.01
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.12
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.11
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.10
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.09
+
+- [x] Sign Language
+- [ ] Video Understanding
+  Sequence Modeling
+
+2024.08
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.07
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.06
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.05
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.04
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.03
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.02
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
+
+2024.01
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
