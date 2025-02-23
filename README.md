@@ -19,9 +19,15 @@ Submittion
 
 Journal
 
-  - **（TIP 2023）Self-Supervised Representation Learning with Spatial-Temporal Consistency for Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2406.10501)] [[Code](https://github.com/sakura2233565548/Self-Supervised-Representation-Learning-with-Spatial-Temporal-Consistency-for-SLR)]
+  - **（TIP 2024）Self-Supervised Representation Learning with Spatial-Temporal Consistency for Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2406.10501)] [[Code](https://github.com/sakura2233565548/Self-Supervised-Representation-Learning-with-Spatial-Temporal-Consistency-for-SLR)]
+
+  - （TPAMI 2023）Towards Zero-Shot Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2201.05914)]
 
   - **（TCSVT 2024）MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2405.20666)] [[Code](https://github.com/sakura2233565548/MASA)]
+
+  - （TMM 2024）SKIM: Skeleton-Based Isolated Sign Language Recognition With Part Mixing. [[Paper](https://ieeexplore.ieee.org/document/10464382)]
+
+  - （PR 2024）Cross-lingual few-shot sign language recognition. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324001250)]
 
 Preprint
   - 「Arxiv 2024.01.22」Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2401.12210)]
@@ -96,7 +102,17 @@ Journal
 
   - （TETCI 2024）Spatial Temporal Aggregation for Efficient Continuous Sign Language Recognition. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10488467)]
 
-  - （Pattern Recognition 2023）Scalable Frame Resolution for Efficient Continuous Sign Language Recognition. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323006015)]
+  - （TIP 2024）Gloss Prior Guided Visual Feature Learning for Continuous Sign Language Recognition. [[Paper](https://ieeexplore.ieee.org/document/10542663)]
+
+  - （TCSVT 2023）Spatial-Temporal Enhanced Network for Continuous Sign Language Recognition. [[Paper](https://ieeexplore.ieee.org/document/10185608)]
+
+  - （TMM 2023）Collaborative Multilingual Continuous Sign Language Recognition: A Unified Framework. [[Paper](https://ieeexplore.ieee.org/document/9954921)]
+
+  - （TMM 2024）A Sign Language Recognition Framework Based on Cross-Modal Complementary Information Fusion. [[Paper](https://ieeexplore.ieee.org/document/10472077)]
+
+  - （PR 2024）Scalable Frame Resolution for Efficient Continuous Sign Language Recognition. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323006015)]
+
+  - （PR 2023）Multi-scale local-temporal similarity fusion for continuous sign language recognition. [[Paper](https://arxiv.org/pdf/2107.12762)]
 
 Preprint
 
@@ -177,6 +193,12 @@ Submittion
 - **【NeurIPS 2023】Towards Faithful Sign Language Translation**. [[Paper](https://openreview.net/pdf?id=mWMJN0vbDF)]
 - **【ICLR 2025】Hybrid Model Collaboration For Sign Language  Translation  With VQ-VAE And RAG Enhanced LLMS**. [[Paper](https://openreview.net/forum?id=7kRFnSFN89)]
 
+Journal
+
+- （TPAMI 2023）SignNet II: A Transformer-Based Two-Way Sign Language Translation Model. [[Paper](https://ieeexplore.ieee.org/document/9999492)]
+- （TCSVT 2024）Improving End-to-End Sign Language Translation With Adaptive Video Representation Enhanced Transformer. [[Paper](https://ieeexplore.ieee.org/document/10466749)]
+- （TCSVT 2024）Overcoming Modality Bias in Question-Driven Sign Language Video Translation. [[Paper](https://ieeexplore.ieee.org/document/10572012)]
+
 Preprint
 
 - 「Arxiv 2024.02.11」American Sign Language Video to Text Translation. [[Paper](https://arxiv.org/pdf/2402.07255)]
@@ -218,8 +240,6 @@ Preprint
 - 「Arxiv 2024.11.23」AzSLD: Azerbaijani Sign Language Dataset for Fingerspelling, Word, and Sentence Translation with Baseline Software. [[Paper](https://arxiv.org/pdf/2411.12865)]
 - 「Arxiv 2025.02.15」SpellRing: Recognizing Continuous Fingerspelling in American Sign Language using a Ring. [[Paper](https://arxiv.org/pdf/2502.10830)]
 
-
-
 ## Sign Language Prodiction
 
 Conference
@@ -257,9 +277,9 @@ Conference
 - **【ICLR 2025】Uni-Sign: Toward Unified Sign Language Understanding at Scale**. [[Paper](https://arxiv.org/pdf/2501.15187)] [[Code](https://github.com/ZechengLi19/Uni-Sign)]
 - 【ECCV 2024】SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark. [[Paper](https://arxiv.org/pdf/2310.20436)]
 
-Submittion
+Journal
 
-- 
+- （TPAMI 2023）SignBERT+: Hand-Model-Aware Self-Supervised Pre-Training for Sign Language Understanding. [[Paper](https://arxiv.org/pdf/2305.04868)]
 
 Preprint
 
@@ -344,26 +364,26 @@ Conference
 - [x] IJCAI 2023
 - [x] KDD 2024
 - [x] KDD 2023
-- [ ] TPAMI 2024
-- [ ] TPAMI 2023
+- [x] TPAMI 2024
+- [x] TPAMI 2023
 - [x] JMLR 2024
 - [x] JMLR 2023
-- [ ] TOG 2024
-- [ ] TOG 2023
-- [ ] IJCV 2024
-- [ ] IJCV 2023
-- [ ] TIP 2024
-- [ ] TIP 2023
-- [ ] TC 2024
-- [ ] TC 2023
-- [ ] TCSVT 2024
-- [ ] TCSVT 2023
-- [ ] TMM 2024
-- [ ] TMM 2023
-- [ ] TVCG 2024
-- [ ] TVCG 2023
-- [ ] PR 2024
-- [ ] PR 2023
+- [x] TOG 2024
+- [x] TOG 2023
+- [x] IJCV 2024
+- [x] IJCV 2023
+- [x] TIP 2024
+- [x] TIP 2023
+- [x] TC 2024
+- [x] TC 2023
+- [x] TCSVT 2024
+- [x] TCSVT 2023
+- [x] TMM 2024
+- [x] TMM 2023
+- [x] TVCG 2024
+- [x] TVCG 2023
+- [x] PR 2024
+- [x] PR 2023
 
 Arxiv 2024
 
