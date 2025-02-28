@@ -121,7 +121,6 @@ Preprint
 
   * 「Arxiv 2024.01.22」SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning. [[Paper](https://arxiv.org/pdf/2401.11847)]
   * 「Arxiv 2024.02.29」Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation. [[Paper](https://arxiv.org/pdf/2402.19118)]
-  * 
   * 「Arxiv 2024.04.12」Improving Continuous Sign Language Recognition with Adapted Image Models [[Paper](https://arxiv.org/pdf/2404.08226)] [[Code](https://github.com/hulianyuyy/AdaptSign)]
   * 「Arxiv 2024.04.17」CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation [[Paper](https://arxiv.org/pdf/2404.11111)] [[Code](https://github.com/hulianyuyy/CorrNet_Plus)]
   * 「Arxiv 2024.04.21」Stream State-tying for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2407.10975)]
@@ -304,9 +303,48 @@ Preprint
 
 ## Video Understanding
 
-pass
+### Video Classification
+
+Large-scale Video Classification with Convolutional Neural Networks
+
+Beyond Short Snippets: Deep Networks for Video Classification
+
+### Action Recognition
+
+Two-Stream Convolutional Networks for Action Recognition in Videos
+
+Learning Spatiotemporal Features with 3D Convolutional Networks
+
+Convolutional Two-Stream Network Fusion for Video Action Recognition
+
+Temporal Segment Networks: Towards Good Practices for Deep Action Recognition
+
+Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset
+
+A Closer Look at Spatiotemporal Convolutions for Action Recognition
+
+Non-local Neural Networks
+
+SlowFast Networks for Video Recognition
+
+Is Space-Time Attention All You Need for Video Understanding?
+
+Conference
+
+- 【ICML 2024】Memory Consolidation Enables Long-Context Video Understanding. [[Paper](https://proceedings.mlr.press/v235/balazevic24a.html)]
+- 【ICML 2024】VideoPrism: A Foundational Visual Encoder for Video Understanding. [[Paper](https://proceedings.mlr.press/v235/zhao24f.html)]
 
 ## Sequence Modeling
+
+Conference
+
+- 【ICML 2023】Sequence Modeling with Multiresolution Convolutional Memory. [[Paper](http://proceedings.mlr.press/v202/shi23f/shi23f.pdf)]
+- 【ICML 2023】Simple Hardware-Efficient Long Convolutions for Sequence Modeling. [[Paper](http://proceedings.mlr.press/v202/fu23a/fu23a.pdf)]
+- 【ICML 2023】CAB: Comprehensive Attention Benchmarking on Long Sequence Modeling. [[Paper](http://proceedings.mlr.press/v202/zhang23r/zhang23r.pdf)]
+- 【ICML 2024】Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling. [[Paper](https://proceedings.mlr.press/v235/bhirangi24a.html)]
+- 【ICML 2024】Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling. [[Paper](https://proceedings.mlr.press/v235/schiff24a.html)]
+- 【ICML 2024】Reinformer: Max-Return Sequence Modeling for Offline RL. [[Paper](https://proceedings.mlr.press/v235/zhuang24b.html)]
+- 【ICML 2024】VQDNA: Unleashing the Power of Vector Quantization for Multi-Species Genomic Sequence Modeling. [[Paper](https://proceedings.mlr.press/v235/li24bm.html)]
 
 [Arxiv 2018] An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
 
@@ -347,14 +385,14 @@ Update Log
 ICML 2024
 
 - [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] Video Understanding
+- [x] Sequence Modeling
 
 ICML 2023
 
 - [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] Video Understanding
+- [x] Sequence Modeling
 
 ICLR 2025
 
