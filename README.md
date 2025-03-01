@@ -54,6 +54,7 @@ Preprint
   - 「Arxiv 2024.12.16」Training Strategies for Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2412.11553)]
   - 「Arxiv 2024.12.24」Learning Sign Language Representation using CNN LSTM, 3DCNN, CNN RNN LSTM and CCN TD. [[Paper](https://arxiv.org/pdf/2412.18187)]
   - 「Arxiv 2025.02.04」Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2502.02196)]
+  - 「Arxiv 2025.02.27」Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[Paper](https://arxiv.org/pdf/2502.20171)]
 
 ### Continous Sign Language Recognition
 
@@ -87,7 +88,7 @@ Conference
 
 - **【AAAI 2024】Cross-Sentence Gloss Consistency for Continuous Sign Language Recognition. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28265/28521)]**
 
-- 【AAAI 2024】TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions. [[Paper](https://arxiv.org/pdf/2403.11818)]
+- **【AAAI 2024】TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions.** [[Paper](https://arxiv.org/pdf/2403.11818)]
 
 - **【CVPR 2024】SignGraph: A Sign Sequence is Worth Graphs of Nodes.** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.pdf) [[code]](https://github.com/gswycf/SignGraph/tree/main)
 
@@ -232,6 +233,7 @@ Preprint
 - 「Arxiv 2024.12.21」LLaVA-SLT: Visual Language Tuning for Sign Language Translation. [[Paper](https://arxiv.org/pdf/2412.16524)]
 - 「Arxiv 2024.12.24」Improvement in Sign Language Translation Using Text CTC Alignment. [[Paper](https://arxiv.org/pdf/2412.09014)]
 - 「Arxiv 2025.02.04」 Spatio-temporal transformer to support automatic sign language translation. [[Paper](https://arxiv.org/pdf/2502.02587)]
+- 「Arxiv 2025.02.17」GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation. [[Paper](https://arxiv.org/pdf/2502.12223)]
 
 
 
@@ -641,6 +643,12 @@ PR 2023
 - [ ] Sequence Modeling
 
 **Arxiv** 
+
+2025.01
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
 
 2025.01
 
