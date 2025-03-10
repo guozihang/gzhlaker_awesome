@@ -11,6 +11,7 @@ Conference
 - **【NeurIPS 2023】PopSign ASL v1.0: An Isolated American Sign Language Dataset Collected via Smartphones**. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/00dada608b8db212ea7d9d92b24c68de-Paper-Datasets_and_Benchmarks.pdf)]
 - **【NeurIPS 2023】ASL Citizen: A Community-Sourced Dataset for Advancing Isolated Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2304.05934)]
 - **【ACMMM 2024】Siformer: Feature-isolated Transformer for Efficient Skeleton-based Sign Language Recognition**. [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681578)]
+- **【CVPR 2025】Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues.** [[Paper](https://arxiv.org/pdf/2501.09754)]
 
 Workshop
 
@@ -45,7 +46,6 @@ Preprint
   - 「Arxiv 2024.07.07」iSign: A Benchmark for Indian Sign Language Processing. [[Paper](https://arxiv.org/pdf/2407.05404)]
   - 「Arxiv 2024.08.20」BAUST Lipi: A BdSL Dataset with Deep Learning Based Bangla Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2408.10518)]
   - 「Arxiv 2024.01.14」Revolutionizing Communication with Deep Learning and XAI for Enhanced Arabic Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2501.08169)]
-  - 「Arxiv 2024.01.16」Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues. [[Paper](https://arxiv.org/pdf/2501.09754)]
   - 「Arxiv 2024.09.11」Deep Neural Network-Based Sign Language Recognition: A Comprehensive Approach Using Transfer Learning with Explainability. [[Paper](https://arxiv.org/pdf/2409.07426)]
   - 「Arxiv 2024.08.26」Bengali Sign Language Recognition through Hand Pose Estimation using Multi-Branch Spatial-Temporal Attention Model. [[Paper](https://arxiv.org/pdf/2408.14111)]
   - 「Arxiv 2024.09.27」Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2407.14224)]
@@ -333,8 +333,27 @@ Conference
 - 【ICLR 2025】VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks. [[Paper](https://iclr.cc/virtual/2025/poster/27960)]
 - 【ICLR 2025】SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding. [[Paper](https://iclr.cc/virtual/2025/poster/30198)]
 - 【ICLR 2025】Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge. [[Paper](https://iclr.cc/virtual/2025/poster/30097)]
-
-
+- 【CVPR 2025】STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding
+- 【CVPR 2025】MMVU: Measuring Expert-Level Multi-Discipline Video Understanding
+- 【CVPR 2025】OVBench: How Far is Your Video-LLMs from Real-World Online Video Understanding?
+- 【CVPR 2025】Towards Vision Language Models For Extra-Long Video Understanding
+- 【CVPR 2025】VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding
+- 【CVPR 2025】ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation
+- 【CVPR 2025】Towards Universal Soccer Video Understanding
+- 【CVPR 2025】Adaptive Keyframe Sampling for Long Video Understanding
+- 【CVPR 2025】BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding
+- 【CVPR 2025】MLVU: Benchmarking Multi-task Long Video Understanding
+- 【CVPR 2025】DrVideo: Document Retrieval Based Long Video Understanding
+- 【CVPR 2025】VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation
+- 【CVPR 2025】Mamba4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models
+- 【CVPR 2025】DynFocus: Dynamic Cooperative Network Empowers LLMs with Video Understanding
+- 【CVPR 2025】VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding
+- 【CVPR 2025】Adapting Pre-trained 3D Models for Point Cloud Video Understanding via Cross-frame Spatio-temporal Perception
+- 【CVPR 2025】Re-thinking Temporal Search for Long-Form Video Understanding
+- 【CVPR 2025】Apollo: An Exploration of Video Understanding in Large Multi-Modal Models
+- 【CVPR 2025】HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding
+- 【CVPR 2025】M-LLM Based Video Frame Selection for Efficient Video Understanding
+- 【CVPR 2025】VideoChat-Online: Towards Online Spatial-Temporal Video Understanding via Large Video Language Models
 
 ### Video Classification
 
@@ -379,6 +398,12 @@ Conference
 - 【ICLR 2024】FROSTER: Frozen CLIP is A Strong Teacher for Open-Vocabulary Action Recognition. [[Paper](https://iclr.cc/virtual/2024/poster/17380)]
 - 【ICLR 2025】TASAR: Transfer-based Attack on Skeletal Action Recognition. [[Paper](https://iclr.cc/virtual/2025/poster/30195)]
 - 【ICLR 2025】ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition. [[Paper](https://iclr.cc/virtual/2025/poster/30700)]
+- 【CVPR 2025】Semantic-guided Cross-Model Prompt Learning for skeleton-based zero-shot action recognition
+- 【CVPR 2025】Neuron : Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition
+- 【CVPR 2025】Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition
+- 【CVPR 2025】TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition
+- 【CVPR 2025】Temporal Alignment-Free Video Matching for Few-shot Action Recognition
+- 【CVPR 2025】Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?
 
 ## Sequence Modeling
 
@@ -430,6 +455,14 @@ Conference
 - 【ICLR 2025】Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences. [[Paper](https://iclr.cc/virtual/2025/poster/30154)]
 - 【ICLR 2025】Flash Inference: Near Linear Time Inference for Long Convolution Sequence Models and Beyond. [[Paper](https://iclr.cc/virtual/2025/poster/29040)]
 - 【ICLR 2025】mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models. [[Paper](mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models)]
+- 【CVPR 2025】Image Re-ranking with Long-Context Sequence Modeling
+- 【CVPR 2025】Parallel Sequence Modeling via Generalization Spatial Propagation Network
+- 【CVPR 2025】Bridging Gait Recognition and Large Language Models Sequence Modeling
+- 【CVPR 2025】Contextual AD Narration with Interleaved Multimodal Sequence
+- 【CVPR 2025】HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models
+- 【CVPR 2025】Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers
+- 【CVPR 2025】DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos
+- 【CVPR 2025】KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation
 
 [Arxiv 2018] An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
 
@@ -451,7 +484,7 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 
 「Arxiv 2024.11.09」Gated Delta Networks: Improving Mamba2 with Delta Rule. [[Paper](https://arxiv.org/pdf/2412.06464)] [[Code](https://github.com/NVlabs/GatedDeltaNet)]
 
-## Uncategory
+## Sign Language Related
 
 - ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles
 - 2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset
@@ -459,6 +492,44 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 - A Comparative Study of Continuous Sign Language Recognition Techniques
 - URVoice: An Akl-Toussaint/ Graham- Sklansky Approach towards Convex Hull Computation for Sign Language Interpretation
 - Ham2Pose: Animating Sign Language Notation Into Pose Sequences
+- 【CVPR 2025】Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations. [[Paper](https://arxiv.org/pdf/2411.16810)]
+- 【CVPR 2025】VSNet: Focusing on the Linguistic Characteristics of Sign Language.
+
+## Interesting
+
+- 【CVPR 2025】Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding
+- 【CVPR 2025】ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression
+- 【CVPR 2025】Video-ColBERT: Contextualized Late Interaction for Text-to-Video Retrieval
+- 【CVPR 2025】Contextual AD Narration with Interleaved Multimodal Sequence
+- 【CVPR 2025】Task Preference Optimization: Improving Multimodal Large Language Models Performance with Vision Task Alignment
+- 【CVPR 2025】Towards Improved Text-Aligned Codebook Learning: Multi-Hierarchical Codebook-Text Alignment with Long Text
+- 【CVPR 2025】AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment
+- 【CVPR 2025】Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment
+- 【CVPR 2025】Cross-modal Causal Relation Alignment for Video Question Grounding
+- 【CVPR 2025】Harnessing Frozen Unimodal Encoders for Flexible Multimodal Alignment
+- 【CVPR 2025】Assessing and Learning Alignment of Unimodal Vision and Language Models
+- 【CVPR 2025】Temporal Alignment-Free Video Matching for Few-shot Action Recognition
+- 【CVPR 2025】Rethinking Noisy Video-Text Retrieval via Relation-aware Alignment
+- 【CVPR 2025】Can Text-to-Video Generation help Video-Language Alignment?
+- 【CVPR 2025】Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models
+- 【CVPR 2025】STPro: Spatial and Temporal Progressive Learning for Weakly Supervised Spatio-Temporal Grounding
+- 【CVPR 2025】TIDE: Training Locally Interpretable Domain Generalization Models Enables Test-time Correction
+- 【CVPR 2025】Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy
+- 【CVPR 2025】Dynamic Pseudo Labeling via Gradient Cutting for High-Low Entropy Exploration
+- 【CVPR 2025】Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy
+- 【CVPR 2025】ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence
+- 【CVPR 2025】Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention
+- 【CVPR 2025】Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation
+- 【CVPR 2025】Spiking Transformer with Spatial-Temporal Attention
+- 【CVPR 2025】SEAL: Semantic Attention Learning for Long Video Representation
+- 【CVPR 2025】FIFA: Fine-grained Inter-frame Attention for Driver's Video Gaze Estimation
+- 【CVPR 2025】Breaking the Low-Rank Dilemma of Linear Attention
+- 【CVPR 2025】Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps
+- 【CVPR 2025】Split Adaptation for Pre-trained Vision Transformers
+- 【CVPR 2025】Mr. DETR: Multi-Route Training for Detection Transformers with Instructive Self-Attention
+- 【CVPR 2025】Structured Artifact Removal with Scale-Adaptive Deformable Transformer
+- 【CVPR 2025】Text Augmented Correlation Transformer For Few-shot Classification & Segmentation
+- 【CVPR 2025】Transformers without Normalization
 
 ------
 
@@ -507,6 +578,14 @@ NeruIPS 2023
 - [x] Sign Language
 - [ ] Video Understanding
 - [ ] Sequence Modeling
+
+CVPR 2025
+
+- [x] Sign language
+- [x] Video Understanding
+- [x] Video Classification
+- [x] Action Recognition
+- [x] Sequence 
 
 CVPR 2024
 
