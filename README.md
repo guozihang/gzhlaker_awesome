@@ -134,6 +134,7 @@ Preprint
   * 「Arxiv 2024.09.18」A Chinese Continuous Sign Language Dataset Based on Complex Environments. [[Paper](https://arxiv.org/pdf/2409.11960)]
   * 「Arxiv 2024.11.07」Continuous Sign Language Recognition System using Deep Learning with MediaPipe Holistic. [[Paper](https://arxiv.org/pdf/2411.04517)]
   * 「Arxiv 2025.03.04」BdSLW401: Transformer-Based Word-Level Bangla Sign Language Recognition Using Relative Quantization Encoding (RQE). [[Paper](https://arxiv.org/pdf/2503.02360)]
+  * 「Arxiv 2025.03.11」OLMD: Orientation-aware Long-term Motion Decoupling for Continuous Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2503.08205)]
 
 
 ## Sign Language Translation
@@ -236,8 +237,7 @@ Preprint
 - 「Arxiv 2025.02.04」 Spatio-temporal transformer to support automatic sign language translation. [[Paper](https://arxiv.org/pdf/2502.02587)]
 - 「Arxiv 2025.02.17」GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation. [[Paper](https://arxiv.org/pdf/2502.12223)]
 - 「Arxiv 2025.03.03」Co-creation for Sign Language Processing and Machine Translation. [[Paper](https://arxiv.org/pdf/2503.01553)]
-
-
+- 「Arxiv 2025.03.09」Sign Language Translation using Frame and Event Stream: Benchmark Dataset and Algorithms. [[Paper](https://arxiv.org/pdf/2503.06484)]
 
 ## Fingerspelling Recognition
 
@@ -292,6 +292,7 @@ Preprint
 
 - 「Arxiv 2024.08.16」Scaling up Multimodal Pre-training for Sign Language Understanding. [[Paper](https://arxiv.org/pdf/2408.08544)]
 - 「Arxiv 2024.10.07」Studying and Mitigating Biases in Sign Language Understanding Models.[[Paper](https://arxiv.org/pdf/2410.05206)]
+- 「Arxiv 2025.03.11」SignRep: Enhancing Self-Supervised Sign Representations. [[Paper](https://arxiv.org/pdf/2503.08529)]
 
 ## Sign Language Detection
 
@@ -494,42 +495,7 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 - Ham2Pose: Animating Sign Language Notation Into Pose Sequences
 - 【CVPR 2025】Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations. [[Paper](https://arxiv.org/pdf/2411.16810)]
 - 【CVPR 2025】VSNet: Focusing on the Linguistic Characteristics of Sign Language.
-
-## Interesting
-
-- 【CVPR 2025】Adaptive Markup Language Generation for Contextually-Grounded Visual Document Understanding
-- 【CVPR 2025】ECVC: Exploiting Non-Local Correlations in Multiple Frames for Contextual Video Compression
-- 【CVPR 2025】Video-ColBERT: Contextualized Late Interaction for Text-to-Video Retrieval
-- 【CVPR 2025】Contextual AD Narration with Interleaved Multimodal Sequence
-- 【CVPR 2025】Task Preference Optimization: Improving Multimodal Large Language Models Performance with Vision Task Alignment
-- 【CVPR 2025】Towards Improved Text-Aligned Codebook Learning: Multi-Hierarchical Codebook-Text Alignment with Long Text
-- 【CVPR 2025】AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment
-- 【CVPR 2025】Robust Audio-Visual Segmentation via Audio-Guided Visual Convergent Alignment
-- 【CVPR 2025】Cross-modal Causal Relation Alignment for Video Question Grounding
-- 【CVPR 2025】Harnessing Frozen Unimodal Encoders for Flexible Multimodal Alignment
-- 【CVPR 2025】Assessing and Learning Alignment of Unimodal Vision and Language Models
-- 【CVPR 2025】Temporal Alignment-Free Video Matching for Few-shot Action Recognition
-- 【CVPR 2025】Rethinking Noisy Video-Text Retrieval via Relation-aware Alignment
-- 【CVPR 2025】Can Text-to-Video Generation help Video-Language Alignment?
-- 【CVPR 2025】Video-Panda: Parameter-efficient Alignment for Encoder-free Video-Language Models
-- 【CVPR 2025】STPro: Spatial and Temporal Progressive Learning for Weakly Supervised Spatio-Temporal Grounding
-- 【CVPR 2025】TIDE: Training Locally Interpretable Domain Generalization Models Enables Test-time Correction
-- 【CVPR 2025】Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy
-- 【CVPR 2025】Dynamic Pseudo Labeling via Gradient Cutting for High-Low Entropy Exploration
-- 【CVPR 2025】Federated Semi-Supervised Learning via Pseudo-Correction utilizing Confidence Discrepancy
-- 【CVPR 2025】ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence
-- 【CVPR 2025】Efficient Event-Based Object Detection: A Hybrid Neural Network with Spatial and Temporal Attention
-- 【CVPR 2025】Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation
-- 【CVPR 2025】Spiking Transformer with Spatial-Temporal Attention
-- 【CVPR 2025】SEAL: Semantic Attention Learning for Long Video Representation
-- 【CVPR 2025】FIFA: Fine-grained Inter-frame Attention for Driver's Video Gaze Estimation
-- 【CVPR 2025】Breaking the Low-Rank Dilemma of Linear Attention
-- 【CVPR 2025】Text Embedding is Not All You Need: Attention Control for Text-to-Image Semantic Alignment with Text Self-Attention Maps
-- 【CVPR 2025】Split Adaptation for Pre-trained Vision Transformers
-- 【CVPR 2025】Mr. DETR: Multi-Route Training for Detection Transformers with Instructive Self-Attention
-- 【CVPR 2025】Structured Artifact Removal with Scale-Adaptive Deformable Transformer
-- 【CVPR 2025】Text Augmented Correlation Transformer For Few-shot Classification & Segmentation
-- 【CVPR 2025】Transformers without Normalization
+- 「Arxiv 2025.03.09」Virtual Co-presenter: Connecting Deaf and Hard-of-hearing Livestreamers and Hearing audience in E-commerce Livestreaming. [[Paper](https://arxiv.org/pdf/2503.06425)]
 
 ------
 
