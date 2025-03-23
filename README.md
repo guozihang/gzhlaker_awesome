@@ -57,6 +57,8 @@ Preprint
   - 「Arxiv 2024.12.24」Learning Sign Language Representation using CNN LSTM, 3DCNN, CNN RNN LSTM and CCN TD. [[Paper](https://arxiv.org/pdf/2412.18187)]
   - 「Arxiv 2025.02.04」Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2502.02196)]
   - 「Arxiv 2025.02.27」Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[Paper](https://arxiv.org/pdf/2502.20171)]
+  - 「Arxiv 2025.03.16」Cross-Modal Consistency Learning for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2503.12485)]
+  - 「Arxiv 2025.03.16」ISLR101: an Iranian Word-Level Sign Language Recognition Dataset. [[Paper](https://arxiv.org/pdf/2503.12451)]
 
 ### Continous Sign Language Recognition
 
@@ -278,6 +280,7 @@ Preprint
 - 「Arxiv 2025.01.12」Comparison of Autoencoders for tokenization of ASL datasets. [[Paper](https://arxiv.org/pdf/2501.06942)]
 - 「Arxiv 2025.02.08」Towards AI-driven Sign Language Generation with Non-manual Markers. [[Paper](https://arxiv.org/pdf/2502.05661)]
 - 「Arxiv 2025.03.04」A Transformer-Based Framework for Greek Sign Language Production using Extended Skeletal Motion Representations. [[Paper](https://arxiv.org/pdf/2503.02360)]
+- 「Arxiv 2025.03.20」Text-Driven Diffusion Model for Sign Language Production. [[Paper](https://arxiv.org/pdf/2503.15914)]
 
 ## Sign Language Understanding 
 
