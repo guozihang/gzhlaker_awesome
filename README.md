@@ -13,6 +13,7 @@ Conference
 - **【NeurIPS 2023】PopSign ASL v1.0: An Isolated American Sign Language Dataset Collected via Smartphones**. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/00dada608b8db212ea7d9d92b24c68de-Paper-Datasets_and_Benchmarks.pdf)]
 - **【NeurIPS 2023】ASL Citizen: A Community-Sourced Dataset for Advancing Isolated Sign Language Recognition**. [[Paper](https://arxiv.org/pdf/2304.05934)]
 - **【ACMMM 2024】Siformer: Feature-isolated Transformer for Efficient Skeleton-based Sign Language Recognition**. [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681578)]
+- 【COLING 2024】Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[code](https://github.com/hulianyuyy/DSTA-SLR)].
 - **【CVPR 2025】Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues.** [[Paper](https://arxiv.org/pdf/2501.09754)]
 
 Workshop
@@ -33,7 +34,7 @@ Journal
 
   - （TMM 2024）SKIM: Skeleton-Based Isolated Sign Language Recognition With Part Mixing. [[Paper](https://ieeexplore.ieee.org/document/10464382)]
 
-  - （PR 2024）Cross-lingual few-shot sign language recognition. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324001250)]
+  - #（PR 2024）Cross-lingual few-shot sign language recognition. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320324001250)]
 
 Preprint
   - 「Arxiv 2024.01.22」Connecting the Dots: Leveraging Spatio-Temporal Graph Neural Networks for Accurate Bangla Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2401.12210)]
@@ -51,53 +52,36 @@ Preprint
   - 「Arxiv 2024.09.11」Deep Neural Network-Based Sign Language Recognition: A Comprehensive Approach Using Transfer Learning with Explainability. [[Paper](https://arxiv.org/pdf/2409.07426)]
   - 「Arxiv 2024.08.26」Bengali Sign Language Recognition through Hand Pose Estimation using Multi-Branch Spatial-Temporal Attention Model. [[Paper](https://arxiv.org/pdf/2408.14111)]
   - 「Arxiv 2024.09.27」Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2407.14224)]
-  - 「Arxiv 2024.11.10」Classification in Japanese Sign Language Based on Dynamic Facial Expressions. [[Paper](https://arxiv.org/search/?query=sign+language&searchtype=all&source=header&order=-announced_date_first&size=50&abstracts=show&start=50)]
+  - #「Arxiv 2024.11.10」Classification in Japanese Sign Language Based on Dynamic Facial Expressions. [[Paper](https://arxiv.org/search/?query=sign+language&searchtype=all&source=header&order=-announced_date_first&size=50&abstracts=show&start=50)]
   - 「Arxiv 2024.12.10」Real-time Sign Language Recognition Using MobileNetV2 and Transfer Learning. [[Paper](https://arxiv.org/pdf/2412.07486)]
   - 「Arxiv 2024.12.16」Training Strategies for Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2412.11553)]
   - 「Arxiv 2024.12.24」Learning Sign Language Representation using CNN LSTM, 3DCNN, CNN RNN LSTM and CCN TD. [[Paper](https://arxiv.org/pdf/2412.18187)]
   - 「Arxiv 2025.02.04」Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2502.02196)]
-  - 「Arxiv 2025.02.27」Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[Paper](https://arxiv.org/pdf/2502.20171)]
+  - #「Arxiv 2025.02.27」Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[Paper](https://arxiv.org/pdf/2502.20171)]
+  - #「Arxiv 2025.03.04」BdSLW401: Transformer-Based Word-Level Bangla Sign Language Recognition Using Relative Quantization Encoding (RQE). [[Paper](https://arxiv.org/pdf/2503.02360)]
   - 「Arxiv 2025.03.16」Cross-Modal Consistency Learning for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2503.12485)]
-  - 「Arxiv 2025.03.16」ISLR101: an Iranian Word-Level Sign Language Recognition Dataset. [[Paper](https://arxiv.org/pdf/2503.12451)]
+  - #「Arxiv 2025.03.16」ISLR101: an Iranian Word-Level Sign Language Recognition Dataset. [[Paper](https://arxiv.org/pdf/2503.12451)]
 
 ### Continous Sign Language Recognition
 
 Conference
 
 - **【ACMMM 2023】AdaBrowse: Adaptive Video Browser for Efficient Continuous Sign Language Recognition**. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611745)
-
 - **【ACMMM 2023】Towards Real-Time Sign Language Recognition and Translation on Edge Devices**. [[Paper](https://dl.acm.org/doi/10.1145/3581783.3611820)]
-
 - **【ICCV 2023】CoSign: Exploring Co-occurrence Signals in Skeleton-based Continuous Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Jiao_CoSign_Exploring_Co-occurrence_Signals_in_Skeleton-based_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
-
 - **【ICCV 2023】Improving Continuous Sign Language Recognition with Cross-Lingual Signs**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Wei_Improving_Continuous_Sign_Language_Recognition_with_Cross-Lingual_Signs_ICCV_2023_paper.html)]
-
 - **【ICCV 2023】C2ST: Cross-modal Contextualized Sequence Transduction for Continuous Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_C2ST_Cross-Modal_Contextualized_Sequence_Transduction_for_Continuous_Sign_Language_Recognition_ICCV_2023_paper.html)]
-
 - **【EMNLP Findings 2023]】Handshape-Aware Sign Language Recognition: Extended Datasets and Exploration of Handshape-Inclusive Methods.** [[paper\]](https://aclanthology.org/2023.findings-emnlp.198/)
-
 - **【AAAI 2023】Self-Emphasizing Network for Continuous Sign Language Recognition**. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25164)] [[Code]](https://github.com/hulianyuyy/SEN_CSLR)
-
 - **【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment**. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html)] [[Code](https://github.com/binbinjiang/CVT-SLR)]
-
-- **【CVPR 2023】Continuous Sign Language Recognition with Correlation Network**. . [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)] [[Code](https://github.com/hulianyuyy/CorrNet)]
-
+- **【CVPR 2023】Continuous Sign Language Recognition with Correlation Network.** [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Continuous_Sign_Language_Recognition_With_Correlation_Network_CVPR_2023_paper.html)] [[Code](https://github.com/hulianyuyy/CorrNet)]
 - **【CVPR 2023】Distilling Cross-Temporal Contexts for Continuous Sign Language Recognition**. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Guo_Distilling_Cross-Temporal_Contexts_for_Continuous_Sign_Language_Recognition_CVPR_2023_paper.html)]
-
 - **【ECCV 2024】 EvSign: Sign Language Recognition and Translation with Streaming Events.** [[paper\]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00799.pdf)
-
 - **【EMNLP 2024】Towards Online Continuous Sign Language Recognition and Translation.** [[paper\]](https://aclanthology.org/2024.emnlp-main.619/)]
-
 - **【AAAI 2024】KD-MSLRT: Lightweight Sign Language Recognition Model Based on Mediapipe and 3D to 1D Knowledge Distillation**. [[Paper](https://arxiv.org/pdf/2501.02321)]
-
 - **【AAAI 2024】Cross-Sentence Gloss Consistency for Continuous Sign Language Recognition. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28265/28521)]**
-
 - **【AAAI 2024】TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions.** [[Paper](https://arxiv.org/pdf/2403.11818)]
-
 - **【CVPR 2024】SignGraph: A Sign Sequence is Worth Graphs of Nodes.** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.pdf) [[code]](https://github.com/gswycf/SignGraph/tree/main)
-
-- 【COLING 2024】Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[code](https://github.com/hulianyuyy/DSTA-SLR)].
-
 - 【IJCAI 2023】Contrastive Learning for Sign Language Recognition and Translation. [[Paper](https://www.ijcai.org/proceedings/2023/0085.pdf)]
 
 Submittion
@@ -128,17 +112,18 @@ Preprint
   * 「Arxiv 2024.02.29」Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation. [[Paper](https://arxiv.org/pdf/2402.19118)]
   * 「Arxiv 2024.04.12」Improving Continuous Sign Language Recognition with Adapted Image Models [[Paper](https://arxiv.org/pdf/2404.08226)] [[Code](https://github.com/hulianyuyy/AdaptSign)]
   * 「Arxiv 2024.04.17」CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation [[Paper](https://arxiv.org/pdf/2404.11111)] [[Code](https://github.com/hulianyuyy/CorrNet_Plus)]
-  * 「Arxiv 2024.04.21」Stream State-tying for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2407.10975)]
+  * #「Arxiv 2024.04.21」Stream State-tying for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2407.10975)]
   * 「Arxiv 2024.05.02」A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News [[Paper](https://arxiv.org/pdf/2405.00980)]
   * 「Arxiv 2024.05.16」A Tale of Two Languages: Large-Vocabulary Continuous Sign Language Recognition from Spoken Language Supervision. [[Paper](https://arxiv.org/pdf/2405.10266)]
   * 「Arxiv 2024.05.20」Continuous Sign Language Recognition with Adapted Conformer via Unsupervised Pretraining. [[Paper](https://arxiv.org/pdf/2405.12018)]
   * 「Arxiv 2024.06.26」Continuous Sign Language Recognition Using Intra-inter Gloss Attention. [[Paper](https://arxiv.org/pdf/2406.18333)]
-  * 「Arxiv 2024.08.14」Sign language recognition based on deep learning and low-cost handcrafted descriptors. [[Paper](https://arxiv.org/pdf/2408.07244)]
+  * #「Arxiv 2024.08.14」Sign language recognition based on deep learning and low-cost handcrafted descriptors. [[Paper](https://arxiv.org/pdf/2408.07244)]
   * 「Arxiv 2024.09.02」SCOPE: Sign Language Contextual Processing with Embedding from LLMs [[Paper](https://arxiv.org/pdf/2409.01073)]
   * 「Arxiv 2024.09.18」A Chinese Continuous Sign Language Dataset Based on Complex Environments. [[Paper](https://arxiv.org/pdf/2409.11960)]
-  * 「Arxiv 2024.11.07」Continuous Sign Language Recognition System using Deep Learning with MediaPipe Holistic. [[Paper](https://arxiv.org/pdf/2411.04517)]
-  * 「Arxiv 2025.03.04」BdSLW401: Transformer-Based Word-Level Bangla Sign Language Recognition Using Relative Quantization Encoding (RQE). [[Paper](https://arxiv.org/pdf/2503.02360)]
+  * #「Arxiv 2024.11.07」Continuous Sign Language Recognition System using Deep Learning with MediaPipe Holistic. [[Paper](https://arxiv.org/pdf/2411.04517)]
   * 「Arxiv 2025.03.11」OLMD: Orientation-aware Long-term Motion Decoupling for Continuous Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2503.08205)]
+  * 「Arxiv 2025.03.21」Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Multi-Culture Sign Language Recognition [[Paper](https://arxiv.org/pdf/2503.16855)]
+  * 「Arxiv 2025.04.02」CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2504.01666)]
 
 
 ## Sign Language Translation
@@ -242,6 +227,8 @@ Preprint
 - 「Arxiv 2025.02.17」GLoT: A Novel Gated-Logarithmic Transformer for Efficient Sign Language Translation. [[Paper](https://arxiv.org/pdf/2502.12223)]
 - 「Arxiv 2025.03.03」Co-creation for Sign Language Processing and Machine Translation. [[Paper](https://arxiv.org/pdf/2503.01553)]
 - 「Arxiv 2025.03.09」Sign Language Translation using Frame and Event Stream: Benchmark Dataset and Algorithms. [[Paper](https://arxiv.org/pdf/2503.06484)]
+- 「Arxiv 2025.03.25」A multitask transformer to sign language translation using motion gesture primitives. [[Paper](https://arxiv.org/pdf/2503.19668)]
+- 「Arxiv 2025.04.03」State-of-the-Art Translation of Text-to-Gloss using mBART : A case study of Bangla. [[Paper](https://arxiv.org/pdf/2504.02293)]
 
 ## Fingerspelling Recognition
 
@@ -501,6 +488,130 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 - 【CVPR 2025】Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations. [[Paper](https://arxiv.org/pdf/2411.16810)]
 - 【CVPR 2025】VSNet: Focusing on the Linguistic Characteristics of Sign Language.
 - 「Arxiv 2025.03.09」Virtual Co-presenter: Connecting Deaf and Hard-of-hearing Livestreamers and Hearing audience in E-commerce Livestreaming. [[Paper](https://arxiv.org/pdf/2503.06425)]
+- 「Arxiv 2025.04.04」See-Through Face Display for DHH People: Enhancing Gaze Awareness in Remote Sign Language Conversations with Camera-Behind Displays. [[Paper](https://arxiv.org/pdf/2504.03141)]
+
+
+
+## Temporal Action Segmentation
+
+1. 【Fully-Supervised】【CVPR 2024】FACT: Frame-Action Cross-Attention Temporal Modeling for Efficient Fully-Supervised Action Segmentation
+
+1. 【科学问题】如何使帧和动作交互
+2. 【解决方案】训练一组 Action Token，使用注意力机制进行帧到动作和动作到帧的跨注意力
+
+1. 【Fully-Supervised】【NeurIPS 2024】Activity Grammars for Temporal Action Segmentation
+2. Diffusion Action Segmentation
+
+1. 【科学问题】如何建模超长视频语义
+2. 【解决方案】分为两支，一支用 local window attention 计算建模局部，一支采样帧，做全局建模
+
+1. 【Fully-Supervised】【ICCV 2023】How Much Temporal Long-Term Context is Needed for Action Segmentation?
+2. 【Fully-Supervised】【ISKE 2023】Streaming Video Temporal Action Segmentation In Real Time
+3. 【Fully-Supervised】【NeurIPS 2022】Don't Pour Cereal into Coffee: Differentiable Temporal Logic for Temporal Action Segmentation
+4. 【Fully-Supervised】【PR 2022】Maximization and Restoration: Action Segmentation through Dilation Passing and Temporal Reconstruction
+5. 【Fully-Supervised】【ICIP 2022】Mcfm: Mutual Cross Fusion Module for Intermediate Fusion-Based Action Segmentation
+6. 【Fully-Supervised】【IVC 2022】Multistage temporal convolution transformer for action segmentation
+7. 【Fully-Supervised】【Arxiv 2022】Semantic2Graph: Graph-based Multi-modal Feature Fusion for Action Segmentation in Videos
+8. 【Fully-Supervised】【IJCAI 2022】Uncertainty-Aware Representation Learning for Action Segmentation
+9. 【Fully-Supervised】【ECCV 2022】Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation
+10. 【Fully-Supervised】【BMVC 2021】ASFormer: Transformer for Action Segmentation
+11. 【Fully-Supervised】【Arxiv 2021】Coarse to Fine Multi-Resolution Temporal Convolutional Network
+12. 【Fully-Supervised】【GCPR 2021】FIFA: Fast Inference Approximation for Action Segmentation
+13. 【Fully-Supervised】【CVPR 2021】Global2Local: Efficient Structure Search for Video Action Segmentation
+14. 【Weakly-Supervised】【CVPR 2024】Efficient and Effective Weakly-Supervised Action Segmentation via Action-Transition-Aware Boundary Alignment
+
+1. 【科学问题】如何理解动作过度
+
+1. 【Weakly-Supervised】【IROS 2023】Is Weakly-supervised Action Segmentation Ready For Human-Robot Interaction ? No , Let ’ s Improve It With Action-union Learning
+
+1. 【科学问题】如何从时间戳中生成其他帧的伪标签
+2. 【解决问题】如何更好利用时间戳
+
+1. 【Weakly-Supervised】【CVPR 2023】Reducing the Label Bias for Timestamp Supervised Temporal Action Segmentation
+2. 【Weakly-Supervised】【IJCAI 2023】Timestamp-Supervised Action Segmentation in the Perspective of Clustering
+3. 【Weakly-Supervised】【ECCV 2022】A Generalized & Robust Framework For Timestamp Supervision in Temporal Action Segmentation
+4. 【Weakly-Supervised】【WACV 2022】Hierarchical Modeling for Task Recognition and Action Segmentation in Weakly-Labeled Instructional Videos
+5. 【Weakly-Supervised】【BMVC 2022】Robust Action Segmentation from Timestamp Supervision
+6. 【Weakly-Supervised】【CVPR 2022】Semi-Weakly-Supervised Learning of Complex Actions from Instructional Task Videos
+7. 【Weakly-Supervised】【CVPR 2022】Set-Supervised Action Learning in Procedural Task Videos via Pairwise Order Consistency
+8. 【Weakly-Supervised】【TMM 2022】Temporal Action Segmentation with High-level Complex Activity Labels
+9. 【Weakly-Supervised】【IROS 2022】Timestamp-Supervised Action Segmentation with Graph Convolutional Networks
+10. 【Weakly-Supervised】【ICME 2022】Turning to a Teacher for Timestamp Supervised Temporal Action Segmentation
+11. 【Weakly-Supervised】【ECCV 2022】Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation
+12. 【Weakly-Supervised】【CVPR 2022】Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos
+13. 【Weakly-Supervised】【CVPR 2021】Anchor-Constrained Viterbi for Set-Supervised Action Segmentation
+14. 【Weakly-Supervised】【TPAMI 2021】Fast Weakly Supervised Action Segmentation Using Mutual Consistency
+15. 【Weakly-Supervised】【CVPR 2021】Learning Discriminative Prototypes with Dynamic Time Warping
+16. 【Weakly-Supervised】【CVPR 2021】Temporal Action Segmentation from Timestamp Supervision
+17. 【Weakly-Supervised】【CVPR 2021】Weakly-Supervised Action Segmentation and Alignment via Transcript-Aware Union-of-Subspaces Learning
+18. 【Weakly-Supervised】【AAAI 2021】Weakly-supervised Temporal Action Localization by Uncertainty Modeling
+19. 【Unsupervised】【CVPR 2024】Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation
+
+
+
+## Automatic Speech Recognition
+
+2024.11.00 ~ 2024.09.20
+
+1. 【Arxiv 2024】Unified Speech Recognition: A Single Model for Auditory, Visual, and Audiovisual Inputs
+1. 【TASLP 2024】Optimizing Contextual Speech Recognition Using Vector Quantization for Efficient Retrieval
+1. 【Arxiv 2024】Augmenting Polish Automatic Speech Recognition System With Synthetic Data
+1. 【Arxiv 2024】Using Confidence Scores to Improve Eyes-free Detection of Speech Recognition Errors
+1. 【Arxiv 2024】A Survey on Speech Large Language Models
+1. 【Arxiv 2024】We Augmented Whisper With kNN and You Won't Believe What Came Next
+1. **【EMNLP 2024 Findings】STTATTS: Unified Speech-To-Text And Text-To-Speech Model**
+1. 【Arxiv 2024】Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts
+1. 【Arxiv 2024】Improving Automatic Speech Recognition with Decoder-Centric Regularisation in Encoder-Decoder Models
+1. 【Arxiv 2024】Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap
+1. 【Arxiv 2024】DENOASR: Debiasing ASRs through Selective DenoisingTemporal Action Segmentation
+1. 【Arxiv 2024】End-to-End Transformer-based Automatic Speech Recognition for Northern Kurdish: A Pioneering Approach
+1. 【Arxiv 2024】Moonshine: Speech Recognition for Live Transcription and Voice Commands
+1. 【Arxiv 2024】Enhancing Multimodal Sentiment Analysis for Missing Modality through Self-Distillation and Unified Modality Cross-Attention
+1. 【Arxiv 2024】AC-Mix: Self-Supervised Adaptation for Low-Resource Automatic Speech Recognition using Agnostic Contrastive Mixup
+1. 【Arxiv 2024】A two-stage transliteration approach to improve performance of a multilingual ASR
+1. 【Arxiv 2024】Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR
+1. 【Arxiv 2024】Failing Forward: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation
+1. 【AAAI-FSS 2024】Automatic Screening for Children with Speech Disorder using Automatic Speech Recognition: Opportunities and Challenges
+1. 【Arxiv 2024】In-Materia Speech Recognition
+1. 【Arxiv 2024】Automatic Speech Recognition with BERT and CTC Transformers: A Review
+1. 【Arxiv 2024】Enhancing Indonesian Automatic Speech Recognition: Evaluating Multilingual Models with Diverse Speech Variabilities
+1. **【ICASSP 2024】****Full-Rank No More: Low-Rank Weight Training for Modern** **Speech** **Recognition** **Models**
+1. 【Arxiv 2024】Advocating Character Error Rate for Multilingual ASR Evaluation
+1. 【Arxiv 2024】Incorporating Talker Identity Aids With Improving Speech Recognition in Adversarial Environments
+1. 【Arxiv 2024】CR-CTC: Consistency regularization on CTC for improved speech recognition
+1. 【Arxiv 2024】Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer
+1. 【Arxiv 2024】Reverb: Open-Source ASR and Diarization from Rev
+1. 【Arxiv 2024】SeeSay: An Assistive Device for the Visually Impaired Using Retrieval Augmented Generation
+1. 【Arxiv 2024】Efficient Streaming LLM for Speech Recognition
+1. 【Arxiv 2024】Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition
+1. 【Arxiv 2024】Algorithms For Automatic Accentuation And Transcription Of Russian Texts In Speech Recognition Systems
+1. 【Arxiv 2024】Automatic Speech Recognition for the Ika Language
+1. **【EMNLP 224】****VHASR: A Multimodal** **Speech** **Recognition** **System With Vision Hotwords**
+1. 【Arxiv 2024】End-to-End Speech Recognition with Pre-trained Masked Language Model
+1. **【ICASSP 2025】Alignment-Free Training for Transducer-based Multi-Talker ASR**
+1. 【ICASSP 2025】Mamba for Streaming ASR Combined with Unimodal Aggregation
+1. 【Interspeech 2024】Boosting Hybrid Autoregressive Transducer-based ASR with Internal Acoustic Model Training and Dual Blank Thresholding
+1. 【ICASSP 2025】Alignment-Free Training for Transducer-based Multi-Talker ASR
+1. 【ICASSP 2025】Predictive Speech Recognition and End-of-Utterance Detection Towards Spoken Dialog Systems
+1. 【ICASSP 2025】HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models
+1. 【Interspeech 2024】Fine-Tuning Automatic Speech Recognition for People with Parkinson's: An Effective Strategy for Enhancing Speech Technology Accessibility
+1. 【ICASSP 2025】Efficient Long-Form Speech Recognition for General Speech In-Context Learning
+
+## Contrastive Learning
+
+SimCLR
+
+BYOL
+
+MoCo v1
+
+MoCo v2
+
+MoCo v3
+
+SimSiam
+
+Dino
 
 ------
 
@@ -775,6 +886,12 @@ PR 2023
 - [ ] Sequence Modeling
 
 **Arxiv** 
+
+2025.03
+
+- [x] Sign Language
+- [ ] Video Understanding
+- [ ] Sequence Modeling
 
 2025.02
 
