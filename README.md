@@ -311,6 +311,28 @@ Preprint
 
 - 「Arxiv 2025.03.05」Deep Understanding of Sign Language for Sign to Subtitle Alignment. [[Paper](https://arxiv.org/pdf/2503.03287)]
 
+## Sign Language Related
+
+Conference
+
+- 【EMNLP 2024】ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles. [[Paper](https://aclanthology.org/2024.emnlp-main.801.pdf)]
+- 【CVPR 2025】Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations. [[Paper](https://arxiv.org/pdf/2411.16810)]
+- 【CVPR 2025】VSNet: Focusing on the Linguistic Characteristics of Sign Language. [[Paper]()]
+
+Submittion
+
+- 【ICLR 2023】URVoice: An Akl-Toussaint/ Graham- Sklansky Approach towards Convex Hull Computation for Sign Language Interpretation. [[Paper](https://openreview.net/pdf?id=GG0sigkMnxF)]
+
+Preprint
+
+- 「Arxiv 2023.04.01」Ham2Pose: Animating Sign Language Notation Into Pose Sequences. [[Paper](https://arxiv.org/pdf/2211.13613)]
+- 「Arxiv 2024.06.18」A Comparative Study of Continuous Sign Language Recognition Techniques. [[Paper](https://arxiv.org/pdf/2406.12369)]
+- 「Arxiv 2024.12.02」Real-Time Multilingual Sign Language Processing. [[Paper](https://arxiv.org/pdf/2412.01991)]
+- 「Arxiv 2024.12.11」2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset. [[Paper](https://arxiv.org/pdf/2412.08274)]
+- 「Arxiv 2025.03.09」Virtual Co-presenter: Connecting Deaf and Hard-of-hearing Livestreamers and Hearing audience in E-commerce Livestreaming. [[Paper](https://arxiv.org/pdf/2503.06425)]
+- 「Arxiv 2025.04.04」See-Through Face Display for DHH People: Enhancing Gaze Awareness in Remote Sign Language Conversations with Camera-Behind Displays. [[Paper](https://arxiv.org/pdf/2504.03141)]
+- 「Arxiv 2025.04.08」Towards an AI-Driven Video-Based American Sign Language Dictionary: Exploring Design and Usage Experience with Learners. [[Paper](https://arxiv.org/pdf/2504.05857)]
+
 ## Video Understanding
 
 Conference
@@ -478,20 +500,6 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 「Arxiv 2024.08.27」Gated Linear Attention Transformers with Hardware-Efficient Training. [[Paper](https://arxiv.org/pdf/2312.06635)]
 
 「Arxiv 2024.11.09」Gated Delta Networks: Improving Mamba2 with Delta Rule. [[Paper](https://arxiv.org/pdf/2412.06464)] [[Code](https://github.com/NVlabs/GatedDeltaNet)]
-
-## Sign Language Related
-
-- ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles
-- 2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset
-- Real-Time Multilingual Sign Language Processing
-- A Comparative Study of Continuous Sign Language Recognition Techniques
-- URVoice: An Akl-Toussaint/ Graham- Sklansky Approach towards Convex Hull Computation for Sign Language Interpretation
-- Ham2Pose: Animating Sign Language Notation Into Pose Sequences
-- 【CVPR 2025】Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations. [[Paper](https://arxiv.org/pdf/2411.16810)]
-- 【CVPR 2025】VSNet: Focusing on the Linguistic Characteristics of Sign Language.
-- 「Arxiv 2025.03.09」Virtual Co-presenter: Connecting Deaf and Hard-of-hearing Livestreamers and Hearing audience in E-commerce Livestreaming. [[Paper](https://arxiv.org/pdf/2503.06425)]
-- 「Arxiv 2025.04.04」See-Through Face Display for DHH People: Enhancing Gaze Awareness in Remote Sign Language Conversations with Camera-Behind Displays. [[Paper](https://arxiv.org/pdf/2504.03141)]
-- 「Arxiv 2025.04.08」Towards an AI-Driven Video-Based American Sign Language Dictionary: Exploring Design and Usage Experience with Learners. [[Paper](https://arxiv.org/pdf/2504.05857)]
 
 
 
