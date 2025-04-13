@@ -61,6 +61,7 @@ Preprint
   - #「Arxiv 2025.03.04」BdSLW401: Transformer-Based Word-Level Bangla Sign Language Recognition Using Relative Quantization Encoding (RQE). [[Paper](https://arxiv.org/pdf/2503.02360)]
   - 「Arxiv 2025.03.16」Cross-Modal Consistency Learning for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2503.12485)]
   - #「Arxiv 2025.03.16」ISLR101: an Iranian Word-Level Sign Language Recognition Dataset. [[Paper](https://arxiv.org/pdf/2503.12451)]
+  - 「Arxiv 2025.04.10」Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2504.07792)]
 
 ### Continous Sign Language Recognition
 
@@ -134,11 +135,11 @@ Conference
 
 - **【ACL 2023】Gloss-Free End-to-End Sign Language Translation**. [[Paper](https://aclanthology.org/2023.acl-long.722/)] [[Code](https://github.com/HenryLittle/GloFE)]
 
-- **【ACL 2023】Neural Machine Translation Methods for Translating Text to Sign Language Glosses**. [[Paper](https://aclanthology.org/2023.acl-long.700/)]
+- #**【ACL 2023】Neural Machine Translation Methods for Translating Text to Sign Language Glosses**. [[Paper](https://aclanthology.org/2023.acl-long.700/)]
 
-- **【ACL 2023】Considerations for meaningful sign language machine translation based on glosses**. [[Paper](https://aclanthology.org/2023.acl-short.60/)]
+- #**【ACL 2023】Considerations for meaningful sign language machine translation based on glosses**. [[Paper](https://aclanthology.org/2023.acl-short.60/)]
 
-- **【ACL 2023】ISLTranslate: Dataset for Translating Indian Sign Language**. [[Paper](https://aclanthology.org/2023.findings-acl.665/)] [[Code](https://github.com/Exploration-Lab/ISLTranslate)]
+- #**【ACL 2023】ISLTranslate: Dataset for Translating Indian Sign Language**. [[Paper](https://aclanthology.org/2023.findings-acl.665/)] [[Code](https://github.com/Exploration-Lab/ISLTranslate)]
 
 - **【EMNLP 2023】Cross-modality Data Augmentation for End-to-End Sign Language Translation**. [[paper](https://arxiv.org/pdf/2305.11096.pdf)] [[Code](https://github.com/Atrewin/SignXmDA)]
 
@@ -268,6 +269,7 @@ Preprint
 - 「Arxiv 2025.02.08」Towards AI-driven Sign Language Generation with Non-manual Markers. [[Paper](https://arxiv.org/pdf/2502.05661)]
 - 「Arxiv 2025.03.04」A Transformer-Based Framework for Greek Sign Language Production using Extended Skeletal Motion Representations. [[Paper](https://arxiv.org/pdf/2503.02360)]
 - 「Arxiv 2025.03.20」Text-Driven Diffusion Model for Sign Language Production. [[Paper](https://arxiv.org/pdf/2503.15914)]
+- 「Arixv 2025.04.09」Disentangle and Regularize: Sign Language Production with Articulator-Based Disentanglement and Channel-Aware Regularization. [[Paper](https://arxiv.org/pdf/2504.06610)]
 
 ## Sign Language Understanding 
 
@@ -489,6 +491,7 @@ SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
 - 【CVPR 2025】VSNet: Focusing on the Linguistic Characteristics of Sign Language.
 - 「Arxiv 2025.03.09」Virtual Co-presenter: Connecting Deaf and Hard-of-hearing Livestreamers and Hearing audience in E-commerce Livestreaming. [[Paper](https://arxiv.org/pdf/2503.06425)]
 - 「Arxiv 2025.04.04」See-Through Face Display for DHH People: Enhancing Gaze Awareness in Remote Sign Language Conversations with Camera-Behind Displays. [[Paper](https://arxiv.org/pdf/2504.03141)]
+- 「Arxiv 2025.04.08」Towards an AI-Driven Video-Based American Sign Language Dictionary: Exploring Design and Usage Experience with Learners. [[Paper](https://arxiv.org/pdf/2504.05857)]
 
 
 
