@@ -15,6 +15,7 @@ Conference
 - **【ACMMM 2024】Siformer: Feature-isolated Transformer for Efficient Skeleton-based Sign Language Recognition**. [[Paper](https://dl.acm.org/doi/10.1145/3664647.3681578)]
 - 【COLING 2024】Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[code](https://github.com/hulianyuyy/DSTA-SLR)].
 - **【CVPR 2025】Lost in Translation, Found in Context: Sign Language Translation with Contextual Cues.** [[Paper](https://arxiv.org/pdf/2501.09754)]
+- 【WWW 2025】Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2502.02196)]
 
 Workshop
 
@@ -56,12 +57,12 @@ Preprint
   - 「Arxiv 2024.12.10」Real-time Sign Language Recognition Using MobileNetV2 and Transfer Learning. [[Paper](https://arxiv.org/pdf/2412.07486)]
   - 「Arxiv 2024.12.16」Training Strategies for Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2412.11553)]
   - 「Arxiv 2024.12.24」Learning Sign Language Representation using CNN LSTM, 3DCNN, CNN RNN LSTM and CCN TD. [[Paper](https://arxiv.org/pdf/2412.18187)]
-  - 「Arxiv 2025.02.04」Exploiting Ensemble Learning for Cross-View Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2502.02196)]
   - #「Arxiv 2025.02.27」Representing Signs as Signs: One-Shot ISLR to Facilitate Functional Sign Language Technologies. [[Paper](https://arxiv.org/pdf/2502.20171)]
   - #「Arxiv 2025.03.04」BdSLW401: Transformer-Based Word-Level Bangla Sign Language Recognition Using Relative Quantization Encoding (RQE). [[Paper](https://arxiv.org/pdf/2503.02360)]
   - 「Arxiv 2025.03.16」Cross-Modal Consistency Learning for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2503.12485)]
   - #「Arxiv 2025.03.16」ISLR101: an Iranian Word-Level Sign Language Recognition Dataset. [[Paper](https://arxiv.org/pdf/2503.12451)]
-  - 「Arxiv 2025.04.10」Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2504.07792)]
+  - **「Arxiv 2025.04.10」Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2504.07792)]**
+  - 「Arxiv 2025.04.23」SSLR: A Semi-Supervised Learning Method for Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2504.16640v1)]
 
 ### Continous Sign Language Recognition
 
@@ -107,6 +108,8 @@ Journal
 
   - （PR 2023）Multi-scale local-temporal similarity fusion for continuous sign language recognition. [[Paper](https://arxiv.org/pdf/2107.12762)]
 
+  - （TPAMI 2025）MixSignGraph: A Sign Sequence is Worth Mixed Graphs of Nodes. [[Paper](https://arxiv.org/pdf/2504.12020)]
+
 Preprint
 
   * 「Arxiv 2024.01.22」SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning. [[Paper](https://arxiv.org/pdf/2401.11847)]
@@ -125,6 +128,7 @@ Preprint
   * 「Arxiv 2025.03.11」OLMD: Orientation-aware Long-term Motion Decoupling for Continuous Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2503.08205)]
   * 「Arxiv 2025.03.21」Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Multi-Culture Sign Language Recognition [[Paper](https://arxiv.org/pdf/2503.16855)]
   * 「Arxiv 2025.04.02」CLIP-SLA: Parameter-Efficient CLIP Adaptation for Continuous Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2504.01666)]
+  * 「Arxiv 2025.04.22」SignX: The Foundation Model for Sign Recognition. [[Paper](https://arxiv.org/pdf/2504.16315)]
 
 
 ## Sign Language Translation
@@ -230,6 +234,7 @@ Preprint
 - 「Arxiv 2025.03.09」Sign Language Translation using Frame and Event Stream: Benchmark Dataset and Algorithms. [[Paper](https://arxiv.org/pdf/2503.06484)]
 - 「Arxiv 2025.03.25」A multitask transformer to sign language translation using motion gesture primitives. [[Paper](https://arxiv.org/pdf/2503.19668)]
 - 「Arxiv 2025.04.03」State-of-the-Art Translation of Text-to-Gloss using mBART : A case study of Bangla. [[Paper](https://arxiv.org/pdf/2504.02293)]
+- 「Arxiv 2025.04.16」ADAT: Time-Series-Aware Adaptive Transformer Architecture for Sign Language Translation. [[Paper](https://arxiv.org/pdf/2504.11942)]
 
 ## Fingerspelling Recognition
 
@@ -310,6 +315,7 @@ Preprint
 Preprint
 
 - 「Arxiv 2025.03.05」Deep Understanding of Sign Language for Sign to Subtitle Alignment. [[Paper](https://arxiv.org/pdf/2503.03287)]
+- 「Arxiv 2025.04.11」Hands-On: Segmenting Individual Signs from Continuous Sequences. [[Paper](https://arxiv.org/pdf/2504.08593)]
 
 ## Sign Language Related
 
