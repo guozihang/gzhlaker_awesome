@@ -1,6 +1,4 @@
-这个文档包含了我所跟踪的一些领域的最新动态。
-
-## Sign Language Recognition
+## Sign Language
 
 ### Isolated Sign Language Recognition
 
@@ -63,6 +61,9 @@ Preprint
   - #「Arxiv 2025.03.16」ISLR101: an Iranian Word-Level Sign Language Recognition Dataset. [[Paper](https://arxiv.org/pdf/2503.12451)]
   - **「Arxiv 2025.04.10」Breaking the Barriers: Video Vision Transformers for Word-Level Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2504.07792)]**
   - 「Arxiv 2025.04.23」SSLR: A Semi-Supervised Learning Method for Isolated Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2504.16640v1)]
+  - 「Arxiv 2025.05.05」Generative Sign-description Prompts with Multi-positive Contrastive Learning for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2505.02304)]
+  - 「Arxiv 2025.05.15」Logos as a Well-Tempered Pre-train for Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2505.10481)]
+  - 「Arxiv 2025.05.16」Enhancing Mathematics Learning for Hard-of-Hearing Students Through Real-Time Palestinian Sign Language Recognition: A New Dataset. [[Paper](https://arxiv.org/pdf/2505.17090)]
 
 ### Continous Sign Language Recognition
 
@@ -212,7 +213,7 @@ Preprint
 - 「Arxiv 2024.08.13」Fingerspelling within Sign Language Translation. [[Paper](https://arxiv.org/pdf/2408.07065)]
 - 「Arxiv 2024.08.19」C2RL: Content and Context Representation Learning for Gloss-free Sign Language Translation and Retrieval. [[Paper](https://arxiv.org/pdf/2408.09949)]
 - 「Arxiv 2024.08.20」Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm. [[Paper](https://arxiv.org/pdf/2408.10488)]
-- 「Arxiv 2024.08.27」From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation. [[Paper](https://arxiv.org/pdf/2408.14825)]
+- 
 - 「Arxiv 2024.09.03」Less is more: concatenating videos for Sign Language Translation from a small set of signs. [[Paper](https://arxiv.org/pdf/2409.01506)]
 - 「Arxiv 2024.09.15」ELMI: Interactive and Intelligent Sign Language Translation of Lyrics for Song Signing. [[Paper](https://arxiv.org/pdf/2409.09760)]
 - 「Arxiv 2024.09.17」American Sign Language to Text Translation using Transformer and Seq2Seq with LSTM. [[Paper](https://arxiv.org/pdf/2409.10874)]
@@ -235,6 +236,7 @@ Preprint
 - 「Arxiv 2025.03.25」A multitask transformer to sign language translation using motion gesture primitives. [[Paper](https://arxiv.org/pdf/2503.19668)]
 - 「Arxiv 2025.04.03」State-of-the-Art Translation of Text-to-Gloss using mBART : A case study of Bangla. [[Paper](https://arxiv.org/pdf/2504.02293)]
 - 「Arxiv 2025.04.16」ADAT: Time-Series-Aware Adaptive Transformer Architecture for Sign Language Translation. [[Paper](https://arxiv.org/pdf/2504.11942)]
+- 「Arxiv 2025.05.21」Bridging Sign and Spoken Languages: Pseudo Gloss Generation for Sign Language Translation. [[Paper](https://arxiv.org/pdf/2505.15438)]
 
 ## Fingerspelling Recognition
 
@@ -242,6 +244,7 @@ Preprint
 - 「Arxiv 2024.08.17」An Open-Source American Sign Language Fingerspell Recognition and Semantic Pose Retrieval Interface. [[Paper](https://arxiv.org/pdf/2408.09311)]
 - 「Arxiv 2024.11.23」AzSLD: Azerbaijani Sign Language Dataset for Fingerspelling, Word, and Sentence Translation with Baseline Software. [[Paper](https://arxiv.org/pdf/2411.12865)]
 - 「Arxiv 2025.02.15」SpellRing: Recognizing Continuous Fingerspelling in American Sign Language using a Ring. [[Paper](https://arxiv.org/pdf/2502.10830)]
+- 「Arxiv 2025.05.15」HandReader: Advanced Techniques for Efficient Fingerspelling Recognition. [[Paper](https://arxiv.org/pdf/2505.10267)]
 
 ## Sign Language Prodiction
 
@@ -338,297 +341,68 @@ Preprint
 - 「Arxiv 2025.03.09」Virtual Co-presenter: Connecting Deaf and Hard-of-hearing Livestreamers and Hearing audience in E-commerce Livestreaming. [[Paper](https://arxiv.org/pdf/2503.06425)]
 - 「Arxiv 2025.04.04」See-Through Face Display for DHH People: Enhancing Gaze Awareness in Remote Sign Language Conversations with Camera-Behind Displays. [[Paper](https://arxiv.org/pdf/2504.03141)]
 - 「Arxiv 2025.04.08」Towards an AI-Driven Video-Based American Sign Language Dictionary: Exploring Design and Usage Experience with Learners. [[Paper](https://arxiv.org/pdf/2504.05857)]
-
-## Video Understanding
-
-Conference
-
-- 【NeurIPS 2024】ShareGPT4Video: Improving Video Understanding and Generation with Better Captions. [[Paper](https://nips.cc/virtual/2024/poster/97789)]
-- 【NeurIPS 2024】Animal-Bench: Benchmarking Multimodal Video Models for Animal-centric Video Understanding. [[Paper](https://nips.cc/virtual/2024/poster/96080)]
-- 【NeurIPS 2024】TOPA: Extending Large Language Models for Video Understanding via Text-Only Pre-Alignment. [[Paper](https://nips.cc/virtual/2024/poster/96589)]
-- 【NeurIPS 2024】Streaming Long Video Understanding with Large Language Models. [[Paper](https://nips.cc/virtual/2024/poster/94520)]
-- 【NeurIPS 2024】VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding. [[Paper](https://nips.cc/virtual/2024/poster/97632)]
-- 【NeurIPS 2024】Video Token Merging for Long Video Understanding. [[Paper](https://nips.cc/virtual/2024/poster/93137)]
-- 【NeurIPS 2024】MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding. [[Paper](https://nips.cc/virtual/2024/poster/97696)]
-
-- 【ICLR 2025】TimeSuite: Improving MLLMs for Long Video Understanding via Grounded Tuning. [[Paper](https://iclr.cc/virtual/2025/poster/28421)]
-- 【ICLR 2025】CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding. [[Paper]([CG-Bench: Clue-grounded Question Answering Benchmark for Long Video Understanding](https://iclr.cc/virtual/2025/poster/28509))]
-- 【ICLR 2025】VideoWebArena: Evaluating Long Context Multimodal Agents with Video Understanding Web Tasks. [[Paper](https://iclr.cc/virtual/2025/poster/27960)]
-- 【ICLR 2025】SVBench: A Benchmark with Temporal Multi-Turn Dialogues for Streaming Video Understanding. [[Paper](https://iclr.cc/virtual/2025/poster/30198)]
-- 【ICLR 2025】Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge. [[Paper](https://iclr.cc/virtual/2025/poster/30097)]
-- 【CVPR 2025】STOP: Integrated Spatial-Temporal Dynamic Prompting for Video Understanding
-- 【CVPR 2025】MMVU: Measuring Expert-Level Multi-Discipline Video Understanding
-- 【CVPR 2025】OVBench: How Far is Your Video-LLMs from Real-World Online Video Understanding?
-- 【CVPR 2025】Towards Vision Language Models For Extra-Long Video Understanding
-- 【CVPR 2025】VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding
-- 【CVPR 2025】ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation
-- 【CVPR 2025】Towards Universal Soccer Video Understanding
-- 【CVPR 2025】Adaptive Keyframe Sampling for Long Video Understanding
-- 【CVPR 2025】BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding
-- 【CVPR 2025】MLVU: Benchmarking Multi-task Long Video Understanding
-- 【CVPR 2025】DrVideo: Document Retrieval Based Long Video Understanding
-- 【CVPR 2025】VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation
-- 【CVPR 2025】Mamba4D: Efficient 4D Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models
-- 【CVPR 2025】DynFocus: Dynamic Cooperative Network Empowers LLMs with Video Understanding
-- 【CVPR 2025】VidHalluc: Evaluating Temporal Hallucinations in Multimodal Large Language Models for Video Understanding
-- 【CVPR 2025】Adapting Pre-trained 3D Models for Point Cloud Video Understanding via Cross-frame Spatio-temporal Perception
-- 【CVPR 2025】Re-thinking Temporal Search for Long-Form Video Understanding
-- 【CVPR 2025】Apollo: An Exploration of Video Understanding in Large Multi-Modal Models
-- 【CVPR 2025】HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding
-- 【CVPR 2025】M-LLM Based Video Frame Selection for Efficient Video Understanding
-- 【CVPR 2025】VideoChat-Online: Towards Online Spatial-Temporal Video Understanding via Large Video Language Models
-
-### Video Classification
-
-Large-scale Video Classification with Convolutional Neural Networks
-
-Beyond Short Snippets: Deep Networks for Video Classification
-
-Conference
-
-- 【ICLR 2023】Temporal Coherent Test Time Optimization for Robust Video Classification. [[Paper](https://iclr.cc/virtual/2023/poster/11570)]
-
-### Action Recognition
-
-Two-Stream Convolutional Networks for Action Recognition in Videos
-
-Learning Spatiotemporal Features with 3D Convolutional Networks
-
-Convolutional Two-Stream Network Fusion for Video Action Recognition
-
-Temporal Segment Networks: Towards Good Practices for Deep Action Recognition
-
-Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset
-
-A Closer Look at Spatiotemporal Convolutions for Action Recognition
-
-Non-local Neural Networks
-
-SlowFast Networks for Video Recognition
-
-Is Space-Time Attention All You Need for Video Understanding?
-
-Conference
-
-- 【ICLR 2023】Graph Contrastive Learning for Skeleton-based Action Recognition. [[Paper](https://iclr.cc/virtual/2023/poster/12137)]
-- 【ICLR 2023】AIM: Adapting Image Models for Efficient Video Action Recognition. [[Paper](https://iclr.cc/virtual/2023/poster/11785)]
-- 【ICML 2024】Memory Consolidation Enables Long-Context Video Understanding. [[Paper](https://proceedings.mlr.press/v235/balazevic24a.html)]
-- 【ICML 2024】VideoPrism: A Foundational Visual Encoder for Video Understanding. [[Paper](https://proceedings.mlr.press/v235/zhao24f.html)]
-- 【NeurIPS 2024】CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition. [[Paper](https://nips.cc/virtual/2024/poster/94816)]
-- 【NeurIPS 2024】ActionAtlas: A VideoQA Benchmark for Domain-specialized Action Recognition. [[Paper](https://nips.cc/virtual/2024/poster/97838)]
-- 【NeurIPS 2024】Recovering Complete Actions for Cross-dataset Skeleton Action Recognition. [[Paper](https://nips.cc/virtual/2024/poster/93611)]
-- 【ICLR 2024】SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition. [[Paper](https://iclr.cc/virtual/2024/poster/19352)]
-- 【ICLR 2024】FROSTER: Frozen CLIP is A Strong Teacher for Open-Vocabulary Action Recognition. [[Paper](https://iclr.cc/virtual/2024/poster/17380)]
-- 【ICLR 2025】TASAR: Transfer-based Attack on Skeletal Action Recognition. [[Paper](https://iclr.cc/virtual/2025/poster/30195)]
-- 【ICLR 2025】ALBAR: Adversarial Learning approach to mitigate Biases in Action Recognition. [[Paper](https://iclr.cc/virtual/2025/poster/30700)]
-- 【CVPR 2025】Semantic-guided Cross-Model Prompt Learning for skeleton-based zero-shot action recognition
-- 【CVPR 2025】Neuron : Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition
-- 【CVPR 2025】Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition
-- 【CVPR 2025】TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition
-- 【CVPR 2025】Temporal Alignment-Free Video Matching for Few-shot Action Recognition
-- 【CVPR 2025】Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?
-
-## Sequence Modeling
-
-Conference
-
-- 【ICML 2023】Sequence Modeling with Multiresolution Convolutional Memory. [[Paper](http://proceedings.mlr.press/v202/shi23f/shi23f.pdf)]
-- 【ICML 2023】Simple Hardware-Efficient Long Convolutions for Sequence Modeling. [[Paper](http://proceedings.mlr.press/v202/fu23a/fu23a.pdf)]
-- 【ICML 2023】CAB: Comprehensive Attention Benchmarking on Long Sequence Modeling. [[Paper](http://proceedings.mlr.press/v202/zhang23r/zhang23r.pdf)]
-- 【ICLR 2023】Simplified State Space Layers for Sequence Modeling. [[Paper](https://iclr.cc/virtual/2023/poster/11401)]
-- 【ICLR 2023】Learning Cut Selection for Mixed-Integer Linear Programming via Hierarchical Sequence Model. [[Paper](Learning Cut Selection for Mixed-Integer Linear Programming via Hierarchical Sequence Model)]
-- 【ICLR 2023】Bayes risk CTC: Controllable CTC alignment in Sequence-to-Sequence tasks. [[Paper](https://iclr.cc/virtual/2023/poster/11642)]
-- 【ICLR 2023】Planning with Sequence Models through Iterative Energy Minimization. [[Paper](https://iclr.cc/virtual/2023/poster/11031)]
-- 【ICLR 2023】Sub-Task Decomposition Enables Learning in Sequence to Sequence Tasks. [[Paper](https://iclr.cc/virtual/2023/poster/11932)]
-- 【ICLR 2023】ChordMixer: A Scalable Neural Attention Model for Sequences with Different Length. [[Paper](https://iclr.cc/virtual/2023/poster/11497)]
-- 【ICLR 2023】Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task. [[Paper](https://iclr.cc/virtual/2023/poster/11827)]
-- 【ICLR 2023】What Makes Convolutional Models Great on Long Sequence Modeling? [[Paper](https://iclr.cc/virtual/2023/poster/10776)]
-- 【ICLR 2023】Multiple sequence alignment as a sequence-to-sequence learning problem. [[Paper](https://iclr.cc/virtual/2023/poster/10923)]
-- 【ICLR 2023】Data Continuity Matters: Improving Sequence Modeling with Lipschitz Regularizer. [[Paper](https://iclr.cc/virtual/2023/poster/11331)]
-- 【ICLR 2023】Continuous-Discrete Convolution for Geometry-Sequence Modeling in Proteins. [[Paper](https://iclr.cc/virtual/2023/poster/12241)]
-- 【ICLR 2023】Toeplitz Neural Network for Sequence Modeling. [[Paper](https://iclr.cc/virtual/2023/poster/11844)]
-- 【ICML 2024】Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling. [[Paper](https://proceedings.mlr.press/v235/bhirangi24a.html)]
-- 【ICML 2024】Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling. [[Paper](https://proceedings.mlr.press/v235/schiff24a.html)]
-- 【ICML 2024】Reinformer: Max-Return Sequence Modeling for Offline RL. [[Paper](https://proceedings.mlr.press/v235/zhuang24b.html)]
-- 【ICML 2024】VQDNA: Unleashing the Power of Vector Quantization for Multi-Species Genomic Sequence Modeling. [[Paper](https://proceedings.mlr.press/v235/li24bm.html)]
-- 【ICML 2024】Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors. [[Paper](https://iclr.cc/virtual/2024/poster/18698)]
-- 【ICML 2024】FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores. [[Paper](https://iclr.cc/virtual/2024/poster/18144)]
-- 【ICML 2024】IceFormer: Accelerated Inference with Long-Sequence Transformers on CPUs. [[Paper](https://iclr.cc/virtual/2024/poster/19389)]
-- 【ICML 2024】Traveling Waves Encode The Recent Past and Enhance Sequence Learning. [[Paper](https://iclr.cc/virtual/2024/poster/17796)]
-- 【ICML 2024】SequenceMatch: Imitation Learning for Autoregressive Sequence Modelling with Backtracking. [[Paper](https://iclr.cc/virtual/2024/poster/19072)]
-- 【ICML 2024】Robustifying State-space Models for Long Sequences via Approximate Diagonalization. [[Paper](https://iclr.cc/virtual/2024/poster/19130)]
-- 【ICML 2024】Parallelizing non-linear sequential models over the sequence length. [[Paper](https://iclr.cc/virtual/2024/poster/19118)]
-- 【NeurIPS 2024】Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling. [[Paper](https://nips.cc/virtual/2024/poster/96906)]
-- 【NeurIPS 2024】Approximation Rate of the Transformer Architecture for Sequence Modeling. [[Paper](https://nips.cc/virtual/2024/poster/94603)]
-- 【NeurIPS 2024】MambaLRP: Explaining Selective State Space Sequence Models. [[Paper](https://nips.cc/virtual/2024/poster/96794)]
-- 【NeurIPS 2024】Mini-Sequence Transformers: Optimizing Intermediate Memory for Long Sequences Training. [[Paper](https://nips.cc/virtual/2024/poster/96824)]
-- 【NeurIPS 2024】Improving Adaptivity via Over-Parameterization in Sequence Models. [[Paper](https://nips.cc/virtual/2024/poster/94952)]
-- 【NeurIPS 2024】Dataset Decomposition: Faster LLM Training with Variable Sequence Length Curriculum. [[Paper](https://nips.cc/virtual/2024/poster/93454)]
-- 【NeurIPS 2024】3DET-Mamba: Causal Sequence Modelling for End-to-End 3D Object Detection. [[Paper](https://nips.cc/virtual/2024/poster/94006)]
-- 【NeurIPS 2024】Reparameterized Multi-Resolution Convolutions for Long Sequence Modelling. [[Paper](https://nips.cc/virtual/2024/poster/95141)]
-- 【NeurIPS 2024】Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling. [[Paper](https://nips.cc/virtual/2024/poster/94586)]
-- 【NeurIPS 2024】Parallelizing Linear Transformers with the Delta Rule over Sequence Length. [[Paper](https://nips.cc/virtual/2024/poster/93040)]
-- 【NeurIPS 2024】Gated Slot Attention for Efficient Linear-Time Sequence Modeling. [[Paper](https://nips.cc/virtual/2024/poster/93950)]
-- 【NeurIPS 2024】Meta-DT: Offline Meta-RL as Conditional Sequence Modeling with World Model Disentanglement. [[Paper](https://nips.cc/virtual/2024/poster/94988)]
-- 【ICLR 2025】Tackling Data Corruption in Offline Reinforcement Learning via Sequence Modeling. [[Paper](https://iclr.cc/virtual/2025/poster/28283)]
-- 【ICLR 2025】Limits of Deep Learning: Sequence Modeling through the Lens of Complexity Theory. [[Paper](https://iclr.cc/virtual/2025/poster/30446)]
-- 【ICLR 2025】Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking. [[Paper](https://iclr.cc/virtual/2025/poster/29814)]
-- 【ICLR 2025】Why RoPE Struggles to Maintain Long-Term Decay in Long Sequences? [[Paper](https://iclr.cc/virtual/2025/poster/31353)]
-- 【ICLR 2025】FlexPrefill: A Context-Aware Sparse Attention Mechanism for Efficient Long-Sequence Inference. [[Paper](https://iclr.cc/virtual/2025/poster/29811)]
-- 【ICLR 2025】Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences. [[Paper](https://iclr.cc/virtual/2025/poster/30154)]
-- 【ICLR 2025】Flash Inference: Near Linear Time Inference for Long Convolution Sequence Models and Beyond. [[Paper](https://iclr.cc/virtual/2025/poster/29040)]
-- 【ICLR 2025】mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models. [[Paper](mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models)]
-- 【CVPR 2025】Image Re-ranking with Long-Context Sequence Modeling
-- 【CVPR 2025】Parallel Sequence Modeling via Generalization Spatial Propagation Network
-- 【CVPR 2025】Bridging Gait Recognition and Large Language Models Sequence Modeling
-- 【CVPR 2025】Contextual AD Narration with Interleaved Multimodal Sequence
-- 【CVPR 2025】HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models
-- 【CVPR 2025】Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers
-- 【CVPR 2025】DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos
-- 【CVPR 2025】KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation
-
-[Arxiv 2018] An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling
-
-Gated Linear Attention Transformers with Hardware-Efficient Training
-
-Long Short-Term Memory
-
-DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders
-
-An Uncertainty Principle for Linear Recurrent Neural Networks
-
-SSMLoRA: Enhancing Low-Rank Adaptation with State Space Model
-
-【NeurIPS 2024】Parallelizing Linear Transformers with the Delta Rule over Sequence Length. [[Paper](https://arxiv.org/pdf/2406.06484)]
-
-「Arxiv 2024.08.11」Learning to (Learn at Test Time): RNNs with Expressive Hidden States. [[Paper](https://arxiv.org/pdf/2407.04620)] [[Code](https://github.com/test-time-training/ttt-lm-pytorch)]
-
-「Arxiv 2024.08.27」Gated Linear Attention Transformers with Hardware-Efficient Training. [[Paper](https://arxiv.org/pdf/2312.06635)]
-
-「Arxiv 2024.11.09」Gated Delta Networks: Improving Mamba2 with Delta Rule. [[Paper](https://arxiv.org/pdf/2412.06464)] [[Code](https://github.com/NVlabs/GatedDeltaNet)]
+- 「Arxiv 2025.04.16」Graph Network for Sign Language Tasks. [[Paper](https://arxiv.org/pdf/2504.12020)]
+- 「Arxiv 2025.05.20」EmoSign: A Multimodal Dataset for Understanding Emotions in American Sign Language. [[Paper](https://arxiv.org/pdf/2505.17090)]
+- 「Arxiv 2025.05.20」Transfer Learning from Visual Speech Recognition to Mouthing Recognition in German Sign Language. [[Paper](https://arxiv.org/pdf/2505.13784)]
+- 「Arxiv 2025.05.12」Perspectives on Capturing Emotional Expressiveness in Sign Language.[[Paper](https://arxiv.org/pdf/2505.08072)]
+- 「Arxiv 2025.05.11」TSLFormer: A Lightweight Transformer Model for Turkish Sign Language Recognition Using Skeletal Landmarks. [[Paper](https://arxiv.org/pdf/2505.07890)]
+- 「Arxiv 2025.05.04」SignSplat: Rendering Sign Language via Gaussian Splatting. [[Paper](https://arxiv.org/pdf/2505.02108)]
 
 
 
-## Temporal Action Segmentation
+## Sign Language Survey
 
-1. 【Fully-Supervised】【CVPR 2024】FACT: Frame-Action Cross-Attention Temporal Modeling for Efficient Fully-Supervised Action Segmentation
+conference
 
-1. 【科学问题】如何使帧和动作交互
-2. 【解决方案】训练一组 Action Token，使用注意力机制进行帧到动作和动作到帧的跨注意力
+- 【ICCV 2023 Workshops】Unraveling a decade: a comprehensive survey on isolated sign language recognition. [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/AMFG/papers/Sarhan_Unraveling_a_Decade_A_Comprehensive_Survey_on_Isolated_Sign_Language_ICCVW_2023_paper.pdf)]
+- 【DMAI 2021】Literature Survey: Sign Language Recognition Using Gesture Recognition and Natural Language Processing. [[Paper](https://link.springer.com/chapter/10.1007/978-981-16-2934-1_13)]
+- 【PETRA 2017】A survey on sign language recognition using smartphones. [[Paper](https://dl.acm.org/doi/abs/10.1145/3056540.3056549)]
+- 【FG 2015】A survey on mouth modeling and analysis for Sign Language recognition. [[Paper](https://ieeexplore.ieee.org/abstract/document/7163162)]
 
-1. 【Fully-Supervised】【NeurIPS 2024】Activity Grammars for Temporal Action Segmentation
-2. Diffusion Action Segmentation
+journal
 
-1. 【科学问题】如何建模超长视频语义
-2. 【解决方案】分为两支，一支用 local window attention 计算建模局部，一支采样帧，做全局建模
+- （ACME 2025）Advancements in Machine Learning Techniques for Hand Gesture-Based Sign Language Recognition: A Comprehensive Review. [[Paper](https://link.springer.com/article/10.1007/s11831-025-10258-z)]
+- （AHCI 2024）Exploring Sign Language Detection on Smartphones: A Systematic Review of Machine and Deep Learning Approaches. [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/1487500)]
+- （MTA 2024）Sign language: a systematic review on classification and recognition. [[Paper](https://link.springer.com/article/10.1007/s11042-024-18583-4)]
+- （IPM 2024）Reviewing 25 years of continuous sign language recognition research: Advances, challenges, and prospects. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001341)]
+- （MVA 2023）Recent progress in sign language recognition: a review. [[Paper](https://link.springer.com/article/10.1007/s00138-023-01479-y)]
+- （ESA 2023）A survey on Sign Language machine translation. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417422020115)]
+- （TALLIP 2023）State of the art of automation in Sign Language: a systematic review. [[Paper](https://dl.acm.org/doi/abs/10.1145/3564769)]
+- （MLA 2023）A survey on sign language literature. [[Paper](https://www.sciencedirect.com/science/article/pii/S2666827023000579)]
+- （MDPI 2023）A Survey of Advancements in Real-Time Sign Language Translators: Integration with IoT Technology. [[Paper](https://www.mdpi.com/2227-7080/11/4/83)]
+- （MDPI 2023）Sign Language Translation: A Survey of Approaches and Techniques. [[Paper](https://www.mdpi.com/2079-9292/12/12/2678)]
+- （MS 2022）Survey on sign language recognition in context of vision-based and deep learning. [[Paper](https://www.sciencedirect.com/science/article/pii/S2665917422000198)]
+- （EAAI 2022）A comprehensive survey and taxonomy of sign language research. [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197622002925)]
+- （UAIS 2021）Machine translation from text to sign language: a systematic review. [[Paper](https://link.springer.com/article/10.1007/s10209-021-00823-1)]
+- （DMAI 2021）Application of Deep Learning Techniques on Sign Language Recognition—A Survey. [[Paper](https://link.springer.com/chapter/10.1007/978-981-16-2934-1_14)]
+- （MDPI 2021）Artificial intelligence technologies for sign language. [[Paper](https://www.mdpi.com/1424-8220/21/17/5843)]
+- （AJSE 2021）A Survey on Artificial Intelligence in Chinese Sign Language Recognition. [[Paper](https://link.springer.com/article/10.1007/s13369-020-04758-2)]
+- （IEEE Access 2021）Deep Learning for Sign Language Recognition: Current Techniques, Benchmarks, and Open Issues. [[Paper](https://ieeexplore.ieee.org/abstract/document/9530569)]
+- （ESA 2021）Sign Language Recognition: A Deep Survey. [[Paper](https://www.sciencedirect.com/science/article/pii/S095741742030614X)]
+- （TPAMI 2020）Automatic Sign Language Analysis: A Survey and the Future beyond Lexical Meaning. [[Paper](https://www.computer.org/csdl/journal/tp/2005/06/i0873/13rRUxNW1UR)]
+- （RBE 2020）Wearable Sensor-Based Sign Language Recognition: A Comprehensive Review. [[Paper](https://ieeexplore.ieee.org/abstract/document/9178440)]
+- （EAS 2020）Advances, Challenges and Opportunities in Continuous Sign Language Recognition. [[Paper](https://fci.stafpu.bu.edu.eg/Computer%20Science/1273/publications/nada%20bahaa%20ibrahim%20ahmed_1205-1227.pdf)]
+- （INOCON 2020）Sign Language Recognition Techniques- A Review. [[Paper](https://ieeexplore.ieee.org/abstract/document/9298376)]
+- （ACME 2019）Sign Language Recognition Systems: A Decade Systematic Literature Review. [[Paper](https://link.springer.com/article/10.1007/s11831-019-09384-2)]
+- （PJST 2018）A Survey of Hand Gesture Recognition Methods in Sign Language Recognition. [[Paper](https://openurl.ebsco.com/EPDB%3Agcd%3A2%3A33254146/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A133409491&crl=c&link_origin=scholar.google.com)]
+- （ATSIP 2017）Automatic sign language recognition: A survey. [[Paper](https://ieeexplore.ieee.org/abstract/document/8075561)]
+- （MLC 2017）A review of hand gesture and sign language recognition techniques. [[Paper](https://link.springer.com/article/10.1007/s13042-017-0705-5)]
+- （IJAPR 2016）A survey on manual and non-manual sign language recognition for isolated and continuous sign. [[Paper](https://www.inderscienceonline.com/doi/abs/10.1504/IJAPR.2016.079048)]
+- （ARL 2015）Sign language typology: The contribution of rural sign languages. [[Paper](https://www.annualreviews.org/content/journals/10.1146/annurev-linguist-030514-124958)]
+- （BB 2015）Gesture, sign, and language: The coming of age of sign language and gesture studies. [[Paper](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/gesture-sign-and-language-the-coming-of-age-of-sign-language-and-gesture-studies/40B9B8E3C35C7005D4D588EC39E34C80)]
+- （ARPN 2014）Sign language recognition: State of the art. [[Paper](https://www.researchgate.net/profile/Ashok-Sahoo-5/publication/262187093_Sign_language_recognition_State_of_the_art/links/02e7e53b246791ce2a000000/Sign-language-recognition-State-of-the-art.pdf)]
+- （UA 2007）Recent developments in visual sign language recognition. [[Paper](https://link.springer.com/article/10.1007/s10209-007-0104-x)]
 
-1. 【Fully-Supervised】【ICCV 2023】How Much Temporal Long-Term Context is Needed for Action Segmentation?
-2. 【Fully-Supervised】【ISKE 2023】Streaming Video Temporal Action Segmentation In Real Time
-3. 【Fully-Supervised】【NeurIPS 2022】Don't Pour Cereal into Coffee: Differentiable Temporal Logic for Temporal Action Segmentation
-4. 【Fully-Supervised】【PR 2022】Maximization and Restoration: Action Segmentation through Dilation Passing and Temporal Reconstruction
-5. 【Fully-Supervised】【ICIP 2022】Mcfm: Mutual Cross Fusion Module for Intermediate Fusion-Based Action Segmentation
-6. 【Fully-Supervised】【IVC 2022】Multistage temporal convolution transformer for action segmentation
-7. 【Fully-Supervised】【Arxiv 2022】Semantic2Graph: Graph-based Multi-modal Feature Fusion for Action Segmentation in Videos
-8. 【Fully-Supervised】【IJCAI 2022】Uncertainty-Aware Representation Learning for Action Segmentation
-9. 【Fully-Supervised】【ECCV 2022】Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation
-10. 【Fully-Supervised】【BMVC 2021】ASFormer: Transformer for Action Segmentation
-11. 【Fully-Supervised】【Arxiv 2021】Coarse to Fine Multi-Resolution Temporal Convolutional Network
-12. 【Fully-Supervised】【GCPR 2021】FIFA: Fast Inference Approximation for Action Segmentation
-13. 【Fully-Supervised】【CVPR 2021】Global2Local: Efficient Structure Search for Video Action Segmentation
-14. 【Weakly-Supervised】【CVPR 2024】Efficient and Effective Weakly-Supervised Action Segmentation via Action-Transition-Aware Boundary Alignment
+preprint
 
-1. 【科学问题】如何理解动作过度
-
-1. 【Weakly-Supervised】【IROS 2023】Is Weakly-supervised Action Segmentation Ready For Human-Robot Interaction ? No , Let ’ s Improve It With Action-union Learning
-
-1. 【科学问题】如何从时间戳中生成其他帧的伪标签
-2. 【解决问题】如何更好利用时间戳
-
-1. 【Weakly-Supervised】【CVPR 2023】Reducing the Label Bias for Timestamp Supervised Temporal Action Segmentation
-2. 【Weakly-Supervised】【IJCAI 2023】Timestamp-Supervised Action Segmentation in the Perspective of Clustering
-3. 【Weakly-Supervised】【ECCV 2022】A Generalized & Robust Framework For Timestamp Supervision in Temporal Action Segmentation
-4. 【Weakly-Supervised】【WACV 2022】Hierarchical Modeling for Task Recognition and Action Segmentation in Weakly-Labeled Instructional Videos
-5. 【Weakly-Supervised】【BMVC 2022】Robust Action Segmentation from Timestamp Supervision
-6. 【Weakly-Supervised】【CVPR 2022】Semi-Weakly-Supervised Learning of Complex Actions from Instructional Task Videos
-7. 【Weakly-Supervised】【CVPR 2022】Set-Supervised Action Learning in Procedural Task Videos via Pairwise Order Consistency
-8. 【Weakly-Supervised】【TMM 2022】Temporal Action Segmentation with High-level Complex Activity Labels
-9. 【Weakly-Supervised】【IROS 2022】Timestamp-Supervised Action Segmentation with Graph Convolutional Networks
-10. 【Weakly-Supervised】【ICME 2022】Turning to a Teacher for Timestamp Supervised Temporal Action Segmentation
-11. 【Weakly-Supervised】【ECCV 2022】Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation
-12. 【Weakly-Supervised】【CVPR 2022】Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos
-13. 【Weakly-Supervised】【CVPR 2021】Anchor-Constrained Viterbi for Set-Supervised Action Segmentation
-14. 【Weakly-Supervised】【TPAMI 2021】Fast Weakly Supervised Action Segmentation Using Mutual Consistency
-15. 【Weakly-Supervised】【CVPR 2021】Learning Discriminative Prototypes with Dynamic Time Warping
-16. 【Weakly-Supervised】【CVPR 2021】Temporal Action Segmentation from Timestamp Supervision
-17. 【Weakly-Supervised】【CVPR 2021】Weakly-Supervised Action Segmentation and Alignment via Transcript-Aware Union-of-Subspaces Learning
-18. 【Weakly-Supervised】【AAAI 2021】Weakly-supervised Temporal Action Localization by Uncertainty Modeling
-19. 【Unsupervised】【CVPR 2024】Temporally Consistent Unbalanced Optimal Transport for Unsupervised Action Segmentation
+- 「Arxiv 2024.08.27」From Rule-Based Models to Deep Learning Transformers Architectures for Natural Language Processing and Sign Language Translation Systems: Survey, Taxonomy and Performance Evaluation. [[Paper](https://arxiv.org/pdf/2408.14825)]
+- 「Arxiv 2023.05.05」A Comparative Analysis of Techniques and Algorithms for Recognising Sign Language. [[Paper](https://arxiv.org/pdf/2305.13941)]
+- 「Arxiv 2022.01.05」All You Need In Sign Language Production. [[Paper](https://arxiv.org/pdf/2201.01609)]
+- 「Arxiv 2021.03.29」Sign Language Production: A Review. [[Paper](https://arxiv.org/pdf/2103.15910)]
+- 「Arxiv 2020.09.22」Visual Methods for Sign Language Recognition: A Modality-Based Review. [[Paper](https://arxiv.org/pdf/2009.10370)]
+- 「Arxiv 2020.08.22」Quantitative Survey of the State of the Art in Sign Language Recognition. [[Paper](https://arxiv.org/pdf/2008.09918)]
 
 
-
-## Automatic Speech Recognition
-
-2024.11.00 ~ 2024.09.20
-
-1. 【Arxiv 2024】Unified Speech Recognition: A Single Model for Auditory, Visual, and Audiovisual Inputs
-1. 【TASLP 2024】Optimizing Contextual Speech Recognition Using Vector Quantization for Efficient Retrieval
-1. 【Arxiv 2024】Augmenting Polish Automatic Speech Recognition System With Synthetic Data
-1. 【Arxiv 2024】Using Confidence Scores to Improve Eyes-free Detection of Speech Recognition Errors
-1. 【Arxiv 2024】A Survey on Speech Large Language Models
-1. 【Arxiv 2024】We Augmented Whisper With kNN and You Won't Believe What Came Next
-1. **【EMNLP 2024 Findings】STTATTS: Unified Speech-To-Text And Text-To-Speech Model**
-1. 【Arxiv 2024】Evaluating and Improving Automatic Speech Recognition Systems for Korean Meteorological Experts
-1. 【Arxiv 2024】Improving Automatic Speech Recognition with Decoder-Centric Regularisation in Encoder-Decoder Models
-1. 【Arxiv 2024】Enhancing Low-Resource ASR through Versatile TTS: Bridging the Data Gap
-1. 【Arxiv 2024】DENOASR: Debiasing ASRs through Selective DenoisingTemporal Action Segmentation
-1. 【Arxiv 2024】End-to-End Transformer-based Automatic Speech Recognition for Northern Kurdish: A Pioneering Approach
-1. 【Arxiv 2024】Moonshine: Speech Recognition for Live Transcription and Voice Commands
-1. 【Arxiv 2024】Enhancing Multimodal Sentiment Analysis for Missing Modality through Self-Distillation and Unified Modality Cross-Attention
-1. 【Arxiv 2024】AC-Mix: Self-Supervised Adaptation for Low-Resource Automatic Speech Recognition using Agnostic Contrastive Mixup
-1. 【Arxiv 2024】A two-stage transliteration approach to improve performance of a multilingual ASR
-1. 【Arxiv 2024】Parameter-efficient Adaptation of Multilingual Multimodal Models for Low-resource ASR
-1. 【Arxiv 2024】Failing Forward: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation
-1. 【AAAI-FSS 2024】Automatic Screening for Children with Speech Disorder using Automatic Speech Recognition: Opportunities and Challenges
-1. 【Arxiv 2024】In-Materia Speech Recognition
-1. 【Arxiv 2024】Automatic Speech Recognition with BERT and CTC Transformers: A Review
-1. 【Arxiv 2024】Enhancing Indonesian Automatic Speech Recognition: Evaluating Multilingual Models with Diverse Speech Variabilities
-1. **【ICASSP 2024】****Full-Rank No More: Low-Rank Weight Training for Modern** **Speech** **Recognition** **Models**
-1. 【Arxiv 2024】Advocating Character Error Rate for Multilingual ASR Evaluation
-1. 【Arxiv 2024】Incorporating Talker Identity Aids With Improving Speech Recognition in Adversarial Environments
-1. 【Arxiv 2024】CR-CTC: Consistency regularization on CTC for improved speech recognition
-1. 【Arxiv 2024】Efficient and Robust Long-Form Speech Recognition with Hybrid H3-Conformer
-1. 【Arxiv 2024】Reverb: Open-Source ASR and Diarization from Rev
-1. 【Arxiv 2024】SeeSay: An Assistive Device for the Visually Impaired Using Retrieval Augmented Generation
-1. 【Arxiv 2024】Efficient Streaming LLM for Speech Recognition
-1. 【Arxiv 2024】Convolutional Variational Autoencoders for Spectrogram Compression in Automatic Speech Recognition
-1. 【Arxiv 2024】Algorithms For Automatic Accentuation And Transcription Of Russian Texts In Speech Recognition Systems
-1. 【Arxiv 2024】Automatic Speech Recognition for the Ika Language
-1. **【EMNLP 224】****VHASR: A Multimodal** **Speech** **Recognition** **System With Vision Hotwords**
-1. 【Arxiv 2024】End-to-End Speech Recognition with Pre-trained Masked Language Model
-1. **【ICASSP 2025】Alignment-Free Training for Transducer-based Multi-Talker ASR**
-1. 【ICASSP 2025】Mamba for Streaming ASR Combined with Unimodal Aggregation
-1. 【Interspeech 2024】Boosting Hybrid Autoregressive Transducer-based ASR with Internal Acoustic Model Training and Dual Blank Thresholding
-1. 【ICASSP 2025】Alignment-Free Training for Transducer-based Multi-Talker ASR
-1. 【ICASSP 2025】Predictive Speech Recognition and End-of-Utterance Detection Towards Spoken Dialog Systems
-1. 【ICASSP 2025】HDMoLE: Mixture of LoRA Experts with Hierarchical Routing and Dynamic Thresholds for Fine-Tuning LLM-based ASR Models
-1. 【Interspeech 2024】Fine-Tuning Automatic Speech Recognition for People with Parkinson's: An Effective Strategy for Enhancing Speech Technology Accessibility
-1. 【ICASSP 2025】Efficient Long-Form Speech Recognition for General Speech In-Context Learning
-
-## Contrastive Learning
-
-SimCLR
-
-BYOL
-
-MoCo v1
-
-MoCo v2
-
-MoCo v3
-
-SimSiam
-
-Dino
 
 ------
 
@@ -636,360 +410,108 @@ Update Log
 
 **Conference**
 
-ICML 2024
+- [x] ICML 2024
 
-- [x] Sign Language
-- [x] Video Understanding
-- [x] Sequence Modeling
+- [x] ICML 2023
 
-ICML 2023
+- [x] ICLR 2025
 
-- [x] Sign Language
-- [x] Video Understanding
-- [x] Sequence Modeling
+- [x] ICLR 2024
 
-ICLR 2025
+- [x] ICLR 2023
 
-- [x] Sign Language
-- [x] Video Understanding
-- [x] Sequence Modeling
+- [x] NeruIPS 2024
 
-ICLR 2024
+- [x] NeruIPS 2023
 
-- [x] Sign Language
-- [x] Video Understanding
-- [x] Sequence Modeling
+- [x] CVPR 2025
 
-ICLR 2023
+- [x] CVPR 2024
 
-- [x] Sign Language
-- [x] Video Understanding
-- [x] Sequence Modeling
+- [x] CVPR 2023
 
-NeruIPS 2024
+- [x] ICCV 2023
 
-- [x] Sign Language
-- [x] Video Understanding
-- [ ] Sequence Modeling
+- [x] ECCV 2024
 
-NeruIPS 2023
+- [x] AAAI 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] AAAI 2023
 
-CVPR 2025
+- [x] WWW 2024
 
-- [x] Sign language
-- [x] Video Understanding
-- [x] Video Classification
-- [x] Action Recognition
-- [x] Sequence 
+- [x] WWW 2023
 
-CVPR 2024
+- [x] ACMMM 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] ACMMM 2023
 
-CVPR 2023
+- [x] SIGIR 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] SIGIR 2023
 
-ICCV 2023
+- [x] IJCAI 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] IJCAI 2023
 
-ECCV 2024
+- [x] KDD 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] KDD 2023
 
-AAAI 2024
+- [x] TPAMI 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] TPAMI 2023
 
-AAAI 2023
+- [x] JMLR 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] JMLR 2023
 
-WWW 2024
+- [x] TOG 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] TOG 2023
 
-WWW 2023
+- [x] IJCV 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] IJCV 2023
 
-ACMMM 2024
+- [x] TIP 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] TIP 2023
 
-ACMMM 2023
+- [x] TC 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] TC 2023
 
-SIGIR 2024
+- [x] TCSVT 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] TCSVT 2023
 
-SIGIR 2023
+- [x] TMM 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] TMM 2023
 
-IJCAI 2024
+- [x] TVCG 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] TVCG 2023
 
-IJCAI 2023
+- [x] PR 2024
 
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-KDD 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-KDD 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TPAMI 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TPAMI 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-JMLR 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-JMLR 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TOG 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TOG 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-IJCV 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-IJCV 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TIP 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TIP 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TC 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TC 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TCSVT 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TCSVT 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TMM 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TMM 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TVCG 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-TVCG 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-PR 2024
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-PR 2023
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] PR 2023
 
 **Arxiv** 
 
-2025.03
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2025.02
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2025.01
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.12
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.11
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.10
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.09
-
-- [x] Sign Language
-- [ ] Video Understanding
-  Sequence Modeling
-
-2024.08
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.07
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.06
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.05
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.04
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.03
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.02
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
-
-2024.01
-
-- [x] Sign Language
-- [ ] Video Understanding
-- [ ] Sequence Modeling
+- [x] 2025.03
+- [x] 2025.02
+- [x] 2025.01
+- [x] 2024.12
+- [x] 2024.11
+- [x] 2024.10
+- [x] 2024.09
+- [x] 2024.08
+- [x] 2024.07
+- [x] 2024.06
+- [x] 2024.05
+- [x] 2024.04
+- [x] 2024.03
+- [x] 2024.02
+- [x] 2024.01
